@@ -1,0 +1,605 @@
+{
+	"data": [
+	  {
+		"BTOID": "BTO:0000035", 
+		"isCancer": "Y", 
+		"name": "colorectal adenocarcinoma cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000041", 
+		"isCancer": "N", 
+		"name": "medulla oblongata"
+	  }, 
+	  {
+		"BTOID": "BTO:0000045", 
+		"isCancer": "N", 
+		"name": "adrenal cortex"
+	  }, 
+	  {
+		"BTOID": "BTO:0000047", 
+		"isCancer": "N", 
+		"name": "adrenal gland"
+	  }, 
+	  {
+		"BTOID": "BTO:0000084", 
+		"isCancer": "N", 
+		"name": "vermiform appendix"
+	  }, 
+	  {
+		"BTOID": "BTO:0000089", 
+		"isCancer": "N", 
+		"name": "blood"
+	  }, 
+	  {
+		"BTOID": "BTO:0000141", 
+		"isCancer": "N", 
+		"name": "bone marrow"
+	  }, 
+	  {
+		"BTOID": "BTO:0000142", 
+		"isCancer": "N", 
+		"name": "brain"
+	  }, 
+	  {
+		"BTOID": "BTO:0000149", 
+		"isCancer": "N", 
+		"name": "breast"
+	  }, 
+	  {
+		"BTOID": "BTO:0000150", 
+		"isCancer": "Y", 
+		"name": "breast cancer cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000180", 
+		"isCancer": "Y", 
+		"name": "cervical carcinoma cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000196", 
+		"isCancer": "Y", 
+		"name": "thyroid cancer cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000199", 
+		"isCancer": "N", 
+		"name": "cardiac muscle"
+	  }, 
+	  {
+		"BTOID": "BTO:0000211", 
+		"isCancer": "N", 
+		"name": "caudate nucleus"
+	  }, 
+	  {
+		"BTOID": "BTO:0000232", 
+		"isCancer": "N", 
+		"name": "cerebellum"
+	  }, 
+	  {
+		"BTOID": "BTO:0000233", 
+		"isCancer": "N", 
+		"name": "cerebral cortex"
+	  }, 
+	  {
+		"BTOID": "BTO:0000243", 
+		"isCancer": "N", 
+		"name": "vagina"
+	  }, 
+	  {
+		"BTOID": "BTO:0000269", 
+		"isCancer": "N", 
+		"name": "colon"
+	  }, 
+	  {
+		"BTOID": "BTO:0000279", 
+		"isCancer": "Y", 
+		"name": "testicular cancer cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000293", 
+		"isCancer": "N", 
+		"name": "occipital lobe"
+	  }, 
+	  {
+		"BTOID": "BTO:0000365", 
+		"isCancer": "N", 
+		"name": "duodenum"
+	  }, 
+	  {
+		"BTOID": "BTO:0000408", 
+		"isCancer": "N", 
+		"name": "epididymis"
+	  }, 
+	  {
+		"BTOID": "BTO:0000439", 
+		"isCancer": "N", 
+		"name": "eye"
+	  }, 
+	  {
+		"BTOID": "BTO:0000443", 
+		"isCancer": "N", 
+		"name": "adipocyte"
+	  }, 
+	  {
+		"BTOID": "BTO:0000493", 
+		"isCancer": "N", 
+		"name": "gall bladder"
+	  }, 
+	  {
+		"BTOID": "BTO:0000498", 
+		"isCancer": "Y", 
+		"name": "gastric cancer cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000526", 
+		"isCancer": "Y", 
+		"name": "glioma cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000535", 
+		"isCancer": "N", 
+		"name": "germ cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000551", 
+		"isCancer": "Y", 
+		"name": "lung cancer cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000562", 
+		"isCancer": "N", 
+		"name": "heart"
+	  }, 
+	  {
+		"BTOID": "BTO:0000584", 
+		"isCancer": "Y", 
+		"name": "pancreatic cancer cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000594", 
+		"isCancer": "Y", 
+		"name": "liver cancer cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000601", 
+		"isCancer": "N", 
+		"name": "hippocampus"
+	  }, 
+	  {
+		"BTOID": "BTO:0000614", 
+		"isCancer": "N", 
+		"name": "hypothalamus"
+	  }, 
+	  {
+		"BTOID": "BTO:0000651", 
+		"isCancer": "N", 
+		"name": "small intestine"
+	  }, 
+	  {
+		"BTOID": "BTO:0000658", 
+		"isCancer": "Y", 
+		"name": "uterine adenocarcinoma cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000662", 
+		"isCancer": "N", 
+		"name": "nasopharynx"
+	  }, 
+	  {
+		"BTOID": "BTO:0000664", 
+		"isCancer": "Y", 
+		"name": "K-562 cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000671", 
+		"isCancer": "N", 
+		"name": "kidney"
+	  }, 
+	  {
+		"BTOID": "BTO:0000680", 
+		"isCancer": "Y", 
+		"name": "kidney cancer cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000729", 
+		"isCancer": "Y", 
+		"name": "carcinoid cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000738", 
+		"isCancer": "Y", 
+		"name": "HL-60 cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000755", 
+		"isCancer": "N", 
+		"name": "Leydig cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000759", 
+		"isCancer": "N", 
+		"name": "liver"
+	  }, 
+	  {
+		"BTOID": "BTO:0000763", 
+		"isCancer": "N", 
+		"name": "lung"
+	  }, 
+	  {
+		"BTOID": "BTO:0000772", 
+		"isCancer": "N", 
+		"name": "lymphoblast"
+	  }, 
+	  {
+		"BTOID": "BTO:0000776", 
+		"isCancer": "N", 
+		"name": "B-lymphocyte"
+	  }, 
+	  {
+		"BTOID": "BTO:0000784", 
+		"isCancer": "N", 
+		"name": "lymph node"
+	  }, 
+	  {
+		"BTOID": "BTO:0000785", 
+		"isCancer": "Y", 
+		"name": "lymphoma cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000848", 
+		"isCancer": "Y", 
+		"name": "melanoma cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000873", 
+		"isCancer": "Y", 
+		"name": "MOLT-4 cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0000876", 
+		"isCancer": "N", 
+		"name": "monocyte"
+	  }, 
+	  {
+		"BTOID": "BTO:0000959", 
+		"isCancer": "N", 
+		"name": "esophagus"
+	  }, 
+	  {
+		"BTOID": "BTO:0000961", 
+		"isCancer": "N", 
+		"name": "olfactory bulb"
+	  }, 
+	  {
+		"BTOID": "BTO:0000975", 
+		"isCancer": "N", 
+		"name": "ovary"
+	  }, 
+	  {
+		"BTOID": "BTO:0000980", 
+		"isCancer": "N", 
+		"name": "oviduct"
+	  }, 
+	  {
+		"BTOID": "BTO:0000988", 
+		"isCancer": "N", 
+		"name": "pancreas"
+	  }, 
+	  {
+		"BTOID": "BTO:0000991", 
+		"isCancer": "N", 
+		"name": "pancreatic islet"
+	  }, 
+	  {
+		"BTOID": "BTO:0000997", 
+		"isCancer": "N", 
+		"name": "parathyroid gland"
+	  }, 
+	  {
+		"BTOID": "BTO:0001001", 
+		"isCancer": "N", 
+		"name": "parietal lobe"
+	  }, 
+	  {
+		"BTOID": "BTO:0001023", 
+		"isCancer": "Y", 
+		"name": "ovary cancer cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0001033", 
+		"isCancer": "Y", 
+		"name": "prostate cancer cell line"
+	  }, 
+	  {
+		"BTOID": "BTO:0001042", 
+		"isCancer": "N", 
+		"name": "amygdala"
+	  }, 
+	  {
+		"BTOID": "BTO:0001067", 
+		"isCancer": "N", 
+		"name": "pineal gland"
+	  }, 
+	  {
+		"BTOID": "BTO:0001073", 
+		"isCancer": "N", 
+		"name": "hypophysis"
+	  }, 
+	  {
+		"BTOID": "BTO:0001078", 
+		"isCancer": "N", 
+		"name": "placenta"
+	  }, 
+	  {
+		"BTOID": "BTO:0001101", 
+		"isCancer": "N", 
+		"name": "pons"
+	  }, 
+	  {
+		"BTOID": "BTO:0001103", 
+		"isCancer": "N", 
+		"name": "skeletal muscle"
+	  }, 
+	  {
+		"BTOID": "BTO:0001129", 
+		"isCancer": "N", 
+		"name": "prostate gland"
+	  }, 
+	  {
+		"BTOID": "BTO:0001154", 
+		"isCancer": "Y", 
+		"name": "RAJI cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0001158", 
+		"isCancer": "N", 
+		"name": "rectum"
+	  }, 
+	  {
+		"BTOID": "BTO:0001175", 
+		"isCancer": "N", 
+		"name": "retina"
+	  }, 
+	  {
+		"BTOID": "BTO:0001176", 
+		"isCancer": "N", 
+		"name": "endothelial cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0001203", 
+		"isCancer": "N", 
+		"name": "salivary gland"
+	  }, 
+	  {
+		"BTOID": "BTO:0001231", 
+		"isCancer": "N", 
+		"name": "trigeminal ganglion"
+	  }, 
+	  {
+		"BTOID": "BTO:0001234", 
+		"isCancer": "N", 
+		"name": "seminal vesicle"
+	  }, 
+	  {
+		"BTOID": "BTO:0001235", 
+		"isCancer": "N", 
+		"name": "seminiferous tubule"
+	  }, 
+	  {
+		"BTOID": "BTO:0001253", 
+		"isCancer": "N", 
+		"name": "skin"
+	  }, 
+	  {
+		"BTOID": "BTO:0001260", 
+		"isCancer": "N", 
+		"name": "smooth muscle"
+	  }, 
+	  {
+		"BTOID": "BTO:0001264", 
+		"isCancer": "N", 
+		"name": "spinal ganglion"
+	  }, 
+	  {
+		"BTOID": "BTO:0001279", 
+		"isCancer": "N", 
+		"name": "spinal cord"
+	  }, 
+	  {
+		"BTOID": "BTO:0001281", 
+		"isCancer": "N", 
+		"name": "spleen"
+	  }, 
+	  {
+		"BTOID": "BTO:0001286", 
+		"isCancer": "Y", 
+		"name": "skin cancer cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0001307", 
+		"isCancer": "N", 
+		"name": "stomach"
+	  }, 
+	  {
+		"BTOID": "BTO:0001325", 
+		"isCancer": "N", 
+		"name": "superior cervical ganglion"
+	  }, 
+	  {
+		"BTOID": "BTO:0001340", 
+		"isCancer": "N", 
+		"name": "bronchus"
+	  }, 
+	  {
+		"BTOID": "BTO:0001355", 
+		"isCancer": "N", 
+		"name": "temporal lobe"
+	  }, 
+	  {
+		"BTOID": "BTO:0001363", 
+		"isCancer": "N", 
+		"name": "testis"
+	  }, 
+	  {
+		"BTOID": "BTO:0001365", 
+		"isCancer": "N", 
+		"name": "thalamus"
+	  }, 
+	  {
+		"BTOID": "BTO:0001374", 
+		"isCancer": "N", 
+		"name": "thymus"
+	  }, 
+	  {
+		"BTOID": "BTO:0001379", 
+		"isCancer": "N", 
+		"name": "thyroid gland"
+	  }, 
+	  {
+		"BTOID": "BTO:0001385", 
+		"isCancer": "N", 
+		"name": "tongue"
+	  }, 
+	  {
+		"BTOID": "BTO:0001387", 
+		"isCancer": "N", 
+		"name": "tonsil"
+	  }, 
+	  {
+		"BTOID": "BTO:0001388", 
+		"isCancer": "N", 
+		"name": "trachea"
+	  }, 
+	  {
+		"BTOID": "BTO:0001418", 
+		"isCancer": "N", 
+		"name": "urinary bladder"
+	  }, 
+	  {
+		"BTOID": "BTO:0001421", 
+		"isCancer": "N", 
+		"name": "uterine cervix"
+	  }, 
+	  {
+		"BTOID": "BTO:0001422", 
+		"isCancer": "N", 
+		"name": "uterine endometrium"
+	  }, 
+	  {
+		"BTOID": "BTO:0001424", 
+		"isCancer": "N", 
+		"name": "uterus"
+	  }, 
+	  {
+		"BTOID": "BTO:0001452", 
+		"isCancer": "N", 
+		"name": "nasal nerve"
+	  }, 
+	  {
+		"BTOID": "BTO:0001487", 
+		"isCancer": "N", 
+		"name": "adipose tissue"
+	  }, 
+	  {
+		"BTOID": "BTO:0001501", 
+		"isCancer": "N", 
+		"name": "hair"
+	  }, 
+	  {
+		"BTOID": "BTO:0001561", 
+		"isCancer": "N", 
+		"name": "DAUDI cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0001615", 
+		"isCancer": "Y", 
+		"name": "colorectal cancer cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0002042", 
+		"isCancer": "N", 
+		"name": "dendritic cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0002246", 
+		"isCancer": "N", 
+		"name": "globus pallidus"
+	  }, 
+	  {
+		"BTOID": "BTO:0002252", 
+		"isCancer": "N", 
+		"name": "subthalamic nucleus"
+	  }, 
+	  {
+		"BTOID": "BTO:0002320", 
+		"isCancer": "N", 
+		"name": "cardiac muscle fiber"
+	  }, 
+	  {
+		"BTOID": "BTO:0002807", 
+		"isCancer": "N", 
+		"name": "prefrontal cortex"
+	  }, 
+	  {
+		"BTOID": "BTO:0002860", 
+		"isCancer": "N", 
+		"name": "oral mucosa"
+	  }, 
+	  {
+		"BTOID": "BTO:0002922", 
+		"isCancer": "N", 
+		"name": "bronchial epithelial cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0003975", 
+		"isCancer": "N", 
+		"name": "cingulate cortex"
+	  }, 
+	  {
+		"BTOID": "BTO:0004238", 
+		"isCancer": "N", 
+		"name": "interstitial cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0004408", 
+		"isCancer": "N", 
+		"name": "culture condition:CD34+ cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0004410", 
+		"isCancer": "N", 
+		"name": "culture condition:CD8+ cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0004677", 
+		"isCancer": "N", 
+		"name": "basis pedunculi cerebri"
+	  }, 
+	  {
+		"BTOID": "BTO:0004911", 
+		"isCancer": "N", 
+		"name": "erythroid progenitor cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0005453", 
+		"isCancer": "N", 
+		"name": "culture condition:CD4+ cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0005535", 
+		"isCancer": "N", 
+		"name": "culture condition:CD56+ cell"
+	  }, 
+	  {
+		"BTOID": "BTO:0005689", 
+		"isCancer": "N", 
+		"name": "atrioventricular node"
+	  }, 
+	  {
+		"BTOID": "BTO:0005838", 
+		"isCancer": "Y", 
+		"name": "head and neck cancer cell"
+	  }
+	], 
+	"success": true
+}

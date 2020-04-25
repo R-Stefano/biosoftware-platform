@@ -1,8 +1,0 @@
-{
-    "success": true,
-    "data":[
-        {"uniprotACC": "C9JZQ8", "assayValue": 3.0, "assayUnits": "IC50", "assayStandardValue": 3000.0, "assayType": "BINDING", "name": "ECONAZOLE", "chemblID": "CHEMBL808", "synonyms": "ECONAZOLE|Econazole|NSC-187789|Spectazole", "compoundType": "compound"},
-        {"uniprotACC": "C9JZQ8", "assayValue": 70.0, "assayUnits": "IC50", "assayStandardValue": 70000.0, "assayType": "BINDING", "name": "FLUFENAMIC ACID", "chemblID": "CHEMBL23588", "synonyms": "ARLEF|CI 440|CN-27,554|FLUFENAMIC ACID|INF-1837|MERALEN|NSC-219007|NSC-82699", "compoundType": "compound"},
-        {"uniprotACC": "C9JZQ8", "assayValue": 124.0, "assayUnits": "IC50", "assayStandardValue": 12400.0, "assayType": "BINDING", "name": "MEFENAMIC ACID", "chemblID": "CHEMBL686", "synonyms": "CI-473|CN-35355|CONTRAFLAM|DYSMAN-250|DYSMAN-500|INF-3355|J2.344B|M01AG01|MEFENAMIC ACID|MEFLAM 250|MEFLAM 500|MENDYS|NSC-94437|OPUSTAN 250|OPUSTAN 500|PONSTAN|PONSTAN FTE|PONSTEL", "compoundType": "compound"}
-    ]
-}

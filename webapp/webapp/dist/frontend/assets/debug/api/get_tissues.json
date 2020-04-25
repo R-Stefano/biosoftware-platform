@@ -1,7 +1,0 @@
-{
-	"success":true,
-	"data":[
-		{"id": 1, "BTOID": "BTO:0000149", "name": "breast"},
-		{"id": 2, "BTOID": "BTO:0000150", "name": "breast cancer cell"}
-	]
-}

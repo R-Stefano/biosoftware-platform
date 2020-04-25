@@ -1,0 +1,23 @@
+steps:
+# build the container image
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/bio-software-design-platform/main:$COMMIT_SHA', '.']
+  dir: 'backend'
+# push the container image to Container Registry
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'gcr.io/bio-software-design-platform/main:$COMMIT_SHA']
+  dir: 'backend'
+# Deploy container image to Cloud Run
+- name: 'gcr.io/cloud-builders/gcloud'
+  args:
+  - 'run'
+  - 'deploy'
+  - 'backend'
+  - '--image'
+  - 'gcr.io/bio-software-design-platform/main:$COMMIT_SHA'
+  - '--region'
+  - 'us-central1'
+  - '--platform'
+  - 'managed'
+images:
+- 'gcr.io/bio-software-design-platform/main:$COMMIT_SHA'
