@@ -1,0 +1,5 @@
+steps:
+- name: "gcr.io/cloud-builders/gcloud"
+  args: ["app", "deploy", "--version", "20200325t184249"]
+  dir: 'frontend'
+timeout: "1600s"

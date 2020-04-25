@@ -1,0 +1,10 @@
+e2e/*
+node_modules/*
+src/*
+
+angular.json
+package.json
+package-lock.json
+README.md
+tsconfig.json
+tslint.json
