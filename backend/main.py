@@ -73,6 +73,7 @@ def _uniqueQuery(params):
     e.ExprLevel,
     p.GeneSymbol AS geneSymbol,
     p.Name AS geneName,
+    p.InBETSE AS inBETSE,
     s.SpecificityScore AS specificityScore
     FROM `expression` e
     LEFT JOIN `Protein` p
@@ -123,6 +124,7 @@ def _comprehensiveQuery(params):
     CASE e.ExprLevelQual WHEN '' THEN 'quantitative' ELSE 'qualitative' END AS exprType,
     p.GeneSymbol AS geneSymbol,
     p.Name AS geneName,
+    p.InBETSE AS inBETSE,
     IFNULL(s.SpecificityScore, '0.0') AS specificityScore
     FROM `expression` e
     LEFT JOIN `Protein` p
