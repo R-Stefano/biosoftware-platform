@@ -1,5 +1,4 @@
-{
-	"data": [
+[
 	  {
 		"BTOID": "BTO:0000035", 
 		"isCancer": "Y", 
@@ -600,6 +599,4 @@
 		"isCancer": "Y", 
 		"name": "head and neck cancer cell"
 	  }
-	], 
-	"success": true
-}
+]

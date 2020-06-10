@@ -57,11 +57,8 @@ def get_tissues():
     FROM Tissue
     ORDER BY name COLLATE NOCASE ASC;"""
 
-    resp=_execute(query).fetchall()
-    return jsonify({
-        "success": True,
-        "data": resp
-    })
+    tissues=_execute(query).fetchall()
+    return jsonify(tissues)
 
 def _uniqueQuery(params):
     #Select genes expressed in the selected tissues
@@ -142,14 +139,11 @@ def get_ion_channel_expression_data():
     params=(content['tissueA'], content['tissueB'])
 
     if (content['type']=="comprehensive"):
-        resp=_comprehensiveQuery(params)
+        expressions=_comprehensiveQuery(params)
     else:
-        resp=_uniqueQuery(params)
+        expressions=_uniqueQuery(params)
 
-    return jsonify({
-        "success": True,
-        "data": resp
-    })
+    return jsonify(expressions)
 
 @app.route('/api/interactions', methods=["POST"])
 def get_protein_compound_interactions():
