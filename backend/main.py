@@ -289,6 +289,12 @@ def get_protein_compound_interactions():
             'assayValue_max': 'max',
             'assayUnits': 'units'
         }, axis='columns')
+        compoundValues.sort_values(by=['assayType'], inplace=True) #keep consistency about the order
+
+        #Put ic50 row at the top
+        ic50row=compoundValues[compoundValues['assayType'] == "IC50"] #get IC50 row to push to the top
+        compoundValues=compoundValues.drop(compoundValues.index[compoundValues['assayType'] == "IC50"], axis='index') #remove row 
+        compoundValues = pd.concat([ic50row, compoundValues]).reset_index(drop = True) #add row to the top
 
         data[comp_id]= {
                 "name": compoundData.iloc[0]['compoundName'] if compoundData.iloc[0]['compoundName'] != "" else compoundData.iloc[0]['chemblID'],
@@ -298,7 +304,15 @@ def get_protein_compound_interactions():
                 "compoundActionTypes": compoundActionTypes.to_dict('records'),
                 "url_ref": "https://www.ebi.ac.uk/chembl/compound_report_card/"+comp_id
             }
-
+    
+    #Sort by IC values
+    filtered_ic50=resp[resp['assayType']=="IC50"]
+    grouped=filtered_ic50.groupby('chemblID').median().reset_index()
+    IDs=np.asarray(grouped['chemblID'])
+    values=list(grouped['assayValue'])
+    sorted_idxs=np.argsort(values)[::-1]
+    compoundIDs=list(IDs[sorted_idxs])
+    
     return jsonify({
         "success": True,
         "data": {

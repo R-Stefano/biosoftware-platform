@@ -1,14 +1,15 @@
-var restify = require('restify');
+var express = require('express');
+const app = express()
 const path=require('path')
 
-const server = restify.createServer();
-const port=process.env.port || 8080
-//Serve frontend as static
-server.get('/*', restify.plugins.serveStatic({
-	directory: path.join(__dirname, 'webapp/dist/frontend/'),
-	default: 'index.html'
-}));
+// Point static path to dist
+app.use(express.static(path.join(__dirname, 'webapp/dist/frontend')));
 
-server.listen(port, () => {
-	console.log('Service server started. Listening on port '+ port);
+//Serve frontend as static
+app.get('*', (req,res) =>{
+    res.sendFile(path.join(__dirname,'webapp/dist/frontend/index.html'));
+});
+
+app.listen(process.env.port || 8080, () => {
+	console.log('Service server started. Listening on port '+(process.env.port || 8080));
 });
