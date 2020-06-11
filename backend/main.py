@@ -133,15 +133,10 @@ def _comprehensiveQuery(params):
     """
     return _execute(query, params).fetchall()
 
-#@app.route('/api/tissues/expressions', methods=["POST"])
-@app.route('/api/tissues/expressions', methods=["GET"])
+@app.route('/api/tissues/expressions', methods=["POST"])
 def get_ion_channel_expression_data():
-    #content = request.json
-    content={
-        'tissueA':'breast',
-        'tissueB':'--',
-        'type': 'comprehensive'
-    }
+    content = request.json
+
     params=(content['tissueA'], content['tissueB'])
 
     if (content['type']=="comprehensive"):
