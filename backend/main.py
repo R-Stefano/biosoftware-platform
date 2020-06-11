@@ -123,7 +123,7 @@ def _comprehensiveQuery(params):
     p.GeneSymbol AS geneSymbol,
     p.Name AS geneName,
     p.InBETSE AS inBETSE,
-    IFNULL(s.SpecificityScore, '0.0') AS specificityScore
+    s.SpecificityScore AS specificityScore
     FROM `expression` e
     LEFT JOIN `Protein` p
     ON (e.ProteinUniProtAccNum = p.UniProtAccNum)
@@ -144,6 +144,13 @@ def get_ion_channel_expression_data():
     else:
         expressions=_uniqueQuery(params)
 
+    if (len(expressions)==0):
+        return jsonify({
+            "genes": [],
+            "genesInfo": {},
+            "tissueA": {},
+            "tissueB": {}
+        })
     #Get unique genes from results
     data=pd.DataFrame(expressions)
     genes=list(data['geneSymbol'].unique())
@@ -173,9 +180,10 @@ def get_ion_channel_expression_data():
                     'QtExpression_mean': None, 
                     'QtExpression_std': None, 
                     'catExpression': None}
-                continue
             else:
                 specificityScore=tissueRecords['specificityScore'].astype(float).mean()
+                specificityScore=None if np.isnan(specificityScore) else specificityScore
+
                 #Get quantitative expressions
                 quantitativeExpressions=tissueRecords[tissueRecords['exprType']=='quantitative']
                 if (len(quantitativeExpressions)==0):
@@ -300,5 +308,6 @@ def get_protein_compound_interactions():
     })
 
 if __name__ == '__main__':
-    app.run(debug=True, port=int(os.environ.get('PORT', 5000)))
+    debug=False if os.environ.get('PORT') else True
+    app.run(debug=debug, port=int(os.environ.get('PORT', 5000)))
     #get_ion_channel_expression_data()
