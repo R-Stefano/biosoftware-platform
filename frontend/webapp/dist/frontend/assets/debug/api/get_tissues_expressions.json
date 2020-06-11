@@ -1,1 +1,6442 @@
-[{"exprLevel":5.8,"exprType":"quantitative","geneName":"potassium two pore domain channel subfamily K member 6","geneSymbol":"KCNK6","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.6,"exprType":"quantitative","geneName":"potassium voltage-gated channel subfamily E regulatory subunit 3","geneSymbol":"KCNE3","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.1,"exprType":"quantitative","geneName":"calcium voltage-gated channel auxiliary subunit gamma 4","geneSymbol":"CACNG4","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.0,"exprType":"quantitative","geneName":"transient receptor potential cation channel subfamily M member 5","geneSymbol":"TRPM5","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":4.9,"exprType":"quantitative","geneName":"potassium two pore domain channel subfamily K member 9","geneSymbol":"KCNK9","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.65,"exprType":"quantitative","geneName":"potassium voltage-gated channel subfamily Q member 5","geneSymbol":"KCNQ5","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.35,"exprType":"quantitative","geneName":"potassium voltage-gated channel subfamily H member 2","geneSymbol":"KCNH2","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.4,"exprType":"quantitative","geneName":"potassium two pore domain channel subfamily K member 17","geneSymbol":"KCNK17","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.4,"exprType":"quantitative","geneName":"potassium voltage-gated channel subfamily A member 7","geneSymbol":"KCNA7","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.0,"exprType":"quantitative","geneName":"calcium voltage-gated channel auxiliary subunit gamma 6","geneSymbol":"CACNG6","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.6,"exprType":"quantitative","geneName":"potassium two pore domain channel subfamily K member 16","geneSymbol":"KCNK16","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":144.4,"exprType":"quantitative","geneName":"tweety family member 2","geneSymbol":"TTYH2","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":4.1,"exprType":"quantitative","geneName":"potassium voltage-gated channel subfamily H member 7","geneSymbol":"KCNH7","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.4,"exprType":"quantitative","geneName":"cation channel sperm associated 1","geneSymbol":"CATSPER1","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.2,"exprType":"quantitative","geneName":"potassium voltage-gated channel modifier subfamily S member 2","geneSymbol":"KCNS2","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":8.0,"exprType":"quantitative","geneName":"potassium voltage-gated channel modifier subfamily G member 3","geneSymbol":"KCNG3","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.55,"exprType":"quantitative","geneName":"potassium voltage-gated channel modifier subfamily G member 3","geneSymbol":"KCNG3","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":47.0,"exprType":"quantitative","geneName":"glutamate ionotropic receptor AMPA type subunit 2","geneSymbol":"GRIA2","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":15.0,"exprType":"quantitative","geneName":"glutamate ionotropic receptor AMPA type subunit 2","geneSymbol":"GRIA2","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":84.4,"exprType":"quantitative","geneName":"glutamate ionotropic receptor AMPA type subunit 2","geneSymbol":"GRIA2","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.15,"exprType":"quantitative","geneName":"calcium voltage-gated channel auxiliary subunit alpha2delta 4","geneSymbol":"CACNA2D4","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":4.4,"exprType":"quantitative","geneName":"potassium voltage-gated channel subfamily C member 2","geneSymbol":"KCNC2","inBETSE":"Y","specificityScore":"0.0","tissue":"blood"},{"exprLevel":122.65,"exprType":"quantitative","geneName":"polycystin 1 like 3, transient receptor potential channel interacting","geneSymbol":"PKD1L3","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.5,"exprType":"quantitative","geneName":"tweety family member 2","geneSymbol":"TTYH2","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.0,"exprType":"quantitative","geneName":"leucine rich repeat containing 8 VRAC subunit E","geneSymbol":"LRRC8E","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":25.85,"exprType":"quantitative","geneName":"transmembrane and coiled-coil domains 1","geneSymbol":"TMCO1","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.9,"exprType":"quantitative","geneName":"calcium voltage-gated channel subunit alpha1 E","geneSymbol":"CACNA1E","inBETSE":"Y","specificityScore":"0.0","tissue":"blood"},{"exprLevel":7.0,"exprType":"quantitative","geneName":"calcium voltage-gated channel subunit alpha1 E","geneSymbol":"CACNA1E","inBETSE":"Y","specificityScore":"0.0","tissue":"blood"},{"exprLevel":11.2,"exprType":"quantitative","geneName":"hyperpolarization activated cyclic nucleotide gated potassium channel 3","geneSymbol":"HCN3","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":124.6,"exprType":"quantitative","geneName":"potassium two pore domain channel subfamily K member 12","geneSymbol":"KCNK12","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":7.0,"exprType":"quantitative","geneName":"gamma-aminobutyric acid type A receptor gamma1 subunit","geneSymbol":"GABRG1","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.4,"exprType":"quantitative","geneName":"cation channel sperm associated 3","geneSymbol":"CATSPER3","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":4.7,"exprType":"quantitative","geneName":"cation channel sperm associated 3","geneSymbol":"CATSPER3","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":4.3,"exprType":"quantitative","geneName":"polycystin 1 like 1, transient receptor potential channel interacting","geneSymbol":"PKD1L1","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.9,"exprType":"quantitative","geneName":"polycystin 1 like 1, transient receptor potential channel interacting","geneSymbol":"PKD1L1","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.95,"exprType":"quantitative","geneName":"polycystin 1 like 1, transient receptor potential channel interacting","geneSymbol":"PKD1L1","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":4.65,"exprType":"quantitative","geneName":"transient receptor potential cation channel subfamily M member 3","geneSymbol":"TRPM3","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.3,"exprType":"quantitative","geneName":"transmembrane channel like 1","geneSymbol":"TMC1","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.2,"exprType":"quantitative","geneName":"glutamate ionotropic receptor NMDA type subunit 3A","geneSymbol":"GRIN3A","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":29.25,"exprType":"quantitative","geneName":"calcium voltage-gated channel subunit alpha1 B","geneSymbol":"CACNA1B","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":36.25,"exprType":"quantitative","geneName":"potassium two pore domain channel subfamily K member 7","geneSymbol":"KCNK7","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.1,"exprType":"quantitative","geneName":"glutamate ionotropic receptor delta type subunit 1","geneSymbol":"GRID1","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":4.05,"exprType":"quantitative","geneName":"transmembrane channel like 2","geneSymbol":"TMC2","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.6,"exprType":"quantitative","geneName":"transient receptor potential cation channel subfamily M member 7","geneSymbol":"TRPM7","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.75,"exprType":"quantitative","geneName":"gamma-aminobutyric acid type A receptor gamma1 subunit","geneSymbol":"GABRG1","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.9,"exprType":"quantitative","geneName":"tweety family member 3","geneSymbol":"TTYH3","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":75.75,"exprType":"quantitative","geneName":"potassium voltage-gated channel subfamily H member 3","geneSymbol":"KCNH3","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.2,"exprType":"quantitative","geneName":"calcium voltage-gated channel auxiliary subunit gamma 8","geneSymbol":"CACNG8","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":4.7,"exprType":"quantitative","geneName":"potassium voltage-gated channel subfamily H member 5","geneSymbol":"KCNH5","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.4,"exprType":"quantitative","geneName":"cyclic nucleotide gated channel alpha 4","geneSymbol":"CNGA4","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.5,"exprType":"quantitative","geneName":"transmembrane protein 63C","geneSymbol":"TMEM63C","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":4.9,"exprType":"quantitative","geneName":"calcium voltage-gated channel auxiliary subunit alpha2delta 4","geneSymbol":"CACNA2D4","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":38.35,"exprType":"quantitative","geneName":"leucine rich repeat containing 8 VRAC subunit B","geneSymbol":"LRRC8B","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":7.4,"exprType":"quantitative","geneName":"potassium voltage-gated channel subfamily H member 2","geneSymbol":"KCNH2","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":50.75,"exprType":"quantitative","geneName":"leucine rich repeat containing 8 VRAC subunit A","geneSymbol":"LRRC8A","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":4.2,"exprType":"quantitative","geneName":"hyperpolarization activated cyclic nucleotide gated potassium channel 1","geneSymbol":"HCN1","inBETSE":"Y","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.3,"exprType":"quantitative","geneName":"sodium voltage-gated channel beta subunit 4","geneSymbol":"SCN4B","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":11.45,"exprType":"quantitative","geneName":"potassium voltage-gated channel subfamily H member 2","geneSymbol":"KCNH2","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":8.35,"exprType":"quantitative","geneName":"transient receptor potential cation channel subfamily M member 6","geneSymbol":"TRPM6","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":15.65,"exprType":"quantitative","geneName":"potassium voltage-gated channel subfamily H member 2","geneSymbol":"KCNH2","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.7,"exprType":"quantitative","geneName":"transient receptor potential cation channel subfamily M member 3","geneSymbol":"TRPM3","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.2,"exprType":"quantitative","geneName":"transient receptor potential cation channel subfamily M member 3","geneSymbol":"TRPM3","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.0,"exprType":"quantitative","geneName":"cation channel sperm associated 3","geneSymbol":"CATSPER3","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":4.65,"exprType":"quantitative","geneName":"potassium voltage-gated channel subfamily H member 8","geneSymbol":"KCNH8","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":64.5,"exprType":"quantitative","geneName":"potassium sodium-activated channel subfamily T member 2","geneSymbol":"KCNT2","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.4,"exprType":"quantitative","geneName":"mucolipin 2","geneSymbol":"MCOLN2","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.5,"exprType":"quantitative","geneName":"transient receptor potential cation channel subfamily V member 3","geneSymbol":"TRPV3","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.0,"exprType":"quantitative","geneName":"transient receptor potential cation channel subfamily M member 8","geneSymbol":"TRPM8","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.5,"exprType":"quantitative","geneName":"transient receptor potential cation channel subfamily M member 8","geneSymbol":"TRPM8","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.1,"exprType":"quantitative","geneName":"potassium voltage-gated channel subfamily H member 5","geneSymbol":"KCNH5","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.6,"exprType":"quantitative","geneName":"potassium voltage-gated channel subfamily C member 2","geneSymbol":"KCNC2","inBETSE":"Y","specificityScore":"0.0","tissue":"blood"},{"exprLevel":4.5,"exprType":"quantitative","geneName":"two pore segment channel 2","geneSymbol":"TPCN2","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.0,"exprType":"quantitative","geneName":"glutamate ionotropic receptor NMDA type subunit 3A","geneSymbol":"GRIN3A","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":101.95,"exprType":"quantitative","geneName":"potassium voltage-gated channel modifier subfamily G member 4","geneSymbol":"KCNG4","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":4.7,"exprType":"quantitative","geneName":"chloride intracellular channel 6","geneSymbol":"CLIC6","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":31.45,"exprType":"quantitative","geneName":"potassium voltage-gated channel subfamily H member 5","geneSymbol":"KCNH5","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":4.4,"exprType":"quantitative","geneName":"transient receptor potential cation channel subfamily M member 6","geneSymbol":"TRPM6","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":132.35,"exprType":"quantitative","geneName":"cyclic nucleotide gated channel beta 3","geneSymbol":"CNGB3","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":5.5,"exprType":"quantitative","geneName":"transient receptor potential cation channel subfamily V member 3","geneSymbol":"TRPV3","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.7,"exprType":"quantitative","geneName":"hyperpolarization activated cyclic nucleotide gated potassium channel 1","geneSymbol":"HCN1","inBETSE":"Y","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.2,"exprType":"quantitative","geneName":"cyclic nucleotide gated channel alpha 2","geneSymbol":"CNGA2","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":4.6,"exprType":"quantitative","geneName":"potassium voltage-gated channel modifier subfamily V member 2","geneSymbol":"KCNV2","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.9,"exprType":"quantitative","geneName":"transmembrane channel like 1","geneSymbol":"TMC1","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.9,"exprType":"quantitative","geneName":"hyperpolarization activated cyclic nucleotide gated potassium channel 3","geneSymbol":"HCN3","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.9,"exprType":"quantitative","geneName":"cholinergic receptor nicotinic epsilon subunit","geneSymbol":"CHRNE","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.9,"exprType":"quantitative","geneName":"potassium sodium-activated channel subfamily T member 1","geneSymbol":"KCNT1","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.9,"exprType":"quantitative","geneName":"mucolipin 2","geneSymbol":"MCOLN2","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.9,"exprType":"quantitative","geneName":"potassium sodium-activated channel subfamily T member 2","geneSymbol":"KCNT2","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.9,"exprType":"quantitative","geneName":"gamma-aminobutyric acid type A receptor gamma1 subunit","geneSymbol":"GABRG1","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.9,"exprType":"quantitative","geneName":"glutamate ionotropic receptor delta type subunit 1","geneSymbol":"GRID1","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.9,"exprType":"quantitative","geneName":"transmembrane protein 37","geneSymbol":"TMEM37","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.9,"exprType":"quantitative","geneName":"transient receptor potential cation channel subfamily M member 6","geneSymbol":"TRPM6","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.9,"exprType":"quantitative","geneName":"transient receptor potential cation channel subfamily M member 6","geneSymbol":"TRPM6","inBETSE":"N","specificityScore":"0.0","tissue":"blood"},{"exprLevel":6.9,"exprType":"quantitative","geneName":"potassium two pore domain channel subfamily K member 18","geneSymbol":"KCNK18","inBETSE":"N","specificityScore":"0.0","tissue":"blood"}]
+{
+    "genes": [
+      "CFTR", 
+      "CACNG3", 
+      "CACNA1G", 
+      "SCN4A", 
+      "CACNA2D2", 
+      "CLCN6", 
+      "GABRA3", 
+      "CLCA1", 
+      "CLCA4", 
+      "GABRA1", 
+      "KCNG1", 
+      "BEST2", 
+      "ANO2", 
+      "KCNQ1", 
+      "KCNH2", 
+      "MCOLN3", 
+      "CACNB1", 
+      "TRPC7", 
+      "KCNAB2", 
+      "ABCC9", 
+      "CNGB1", 
+      "TRPM5", 
+      "ASIC4", 
+      "TRPC5", 
+      "TMEM38A", 
+      "CLCN4", 
+      "ANO8", 
+      "KCNQ2", 
+      "CACNG5", 
+      "CACNG4", 
+      "VDAC3", 
+      "PKD2L2", 
+      "CHRNA3", 
+      "KCNN2", 
+      "CACNA1S", 
+      "KCNK2", 
+      "TRPM3", 
+      "P2RX5", 
+      "P2RX7", 
+      "KCNH4", 
+      "MCOLN1", 
+      "TRPM7", 
+      "GABRP", 
+      "TMEM38B", 
+      "KCNK16", 
+      "KCNK6", 
+      "CATSPERG", 
+      "HCN2", 
+      "P2RX6", 
+      "CACNA1I", 
+      "KCNK10", 
+      "TRPC4AP", 
+      "CHRNA4", 
+      "CACNA1F", 
+      "KCND1", 
+      "GABRE", 
+      "NALCN", 
+      "HTR2A", 
+      "CLCN7", 
+      "PIEZO1", 
+      "TRPA1", 
+      "KCNN4", 
+      "KCNA7", 
+      "GRIN2D", 
+      "CACNG7", 
+      "KCNN1", 
+      "SCN1B", 
+      "GRIK5", 
+      "KCNT1", 
+      "PKD2L1", 
+      "P2RX1", 
+      "CHRNE", 
+      "ASIC2", 
+      "CACNG1", 
+      "GABRA4", 
+      "CLCN3", 
+      "P2RX3", 
+      "ASIC1", 
+      "TRPV4", 
+      "KCNA1", 
+      "SCNN1A", 
+      "GABRR2", 
+      "CLIC5", 
+      "GABRG2", 
+      "CLCN2", 
+      "KCNIP3", 
+      "KCNJ13", 
+      "GRIN3B", 
+      "KCNC4", 
+      "KCNQ4", 
+      "CHRNB4", 
+      "PKD2", 
+      "TRPM6", 
+      "KCNIP2", 
+      "GRIA2", 
+      "KCNJ5", 
+      "CHRNA2", 
+      "KCNJ8", 
+      "HVCN1", 
+      "KCNJ2", 
+      "KCNS1", 
+      "KCNK17", 
+      "GRIA3", 
+      "BEST3", 
+      "TRPV5", 
+      "TMEM175", 
+      "KCNC1", 
+      "CHRNA10", 
+      "KCNA5", 
+      "CACNG6", 
+      "TRPM4", 
+      "PKDREJ", 
+      "KCNC3", 
+      "ANO1", 
+      "CNGA4", 
+      "TRPC4", 
+      "CATSPERB", 
+      "TRPM1", 
+      "ANO3", 
+      "P2RX4", 
+      "KCNH3", 
+      "KCNMB4", 
+      "KCNK1", 
+      "CHRND", 
+      "TTYH3", 
+      "SCN2A", 
+      "SCN7A", 
+      "LRRC8A", 
+      "TRPC6", 
+      "CLCA2", 
+      "CALHM2", 
+      "CHRNA1", 
+      "HCN4", 
+      "TRPC3", 
+      "KCNH5", 
+      "TTYH2", 
+      "CACNA1A", 
+      "TRPM2", 
+      "CACNG8", 
+      "BEST4", 
+      "KCNA10", 
+      "TMCO1", 
+      "KCNH1", 
+      "KCNN3", 
+      "HCN3", 
+      "CNGA3", 
+      "SCN1A", 
+      "TRPM8", 
+      "TRPC1", 
+      "GABRA6", 
+      "GABRB2", 
+      "KCNMB1", 
+      "ANO7", 
+      "GABRR1", 
+      "CHRNB3", 
+      "CHRNA6", 
+      "CACNA1B", 
+      "HTR3B", 
+      "GRIK4", 
+      "TMC2", 
+      "SCN2B", 
+      "CACNA2D4", 
+      "CACNA1C", 
+      "KCNA6", 
+      "ANO4", 
+      "KCNJ1", 
+      "GABRA2", 
+      "KCNE4", 
+      "GRID2", 
+      "KCNK13", 
+      "GRIA4", 
+      "CATSPER3", 
+      "SCN3A", 
+      "KCNJ16", 
+      "MCOLN2", 
+      "CACNA2D1", 
+      "PIEZO2", 
+      "GRIA1", 
+      "CLIC2", 
+      "KCNMA1", 
+      "KCNS2", 
+      "CACNA1D", 
+      "CACNA2D3", 
+      "KCNJ6", 
+      "KCNJ15", 
+      "KCNB1", 
+      "PKD1L1", 
+      "KCNE2", 
+      "CLIC6", 
+      "CHRNB2", 
+      "ANO10", 
+      "ORAI2", 
+      "GRIN2C", 
+      "TPCN2", 
+      "BSND", 
+      "SCNN1D", 
+      "KCNT2", 
+      "KCNJ9", 
+      "KCNF1", 
+      "KCNJ3", 
+      "GABRG1", 
+      "GABRB1", 
+      "GRIK3", 
+      "GRIK2", 
+      "HCN1", 
+      "KCNK5", 
+      "KCNV1", 
+      "TMC1", 
+      "TRPV6", 
+      "TMEM63C", 
+      "VDAC2", 
+      "CACNB2", 
+      "KCNC2", 
+      "GABRB3", 
+      "SCN3B", 
+      "CHRFAM7A", 
+      "HTR3A", 
+      "CATSPER2", 
+      "SCNN1G", 
+      "CACNG2", 
+      "CACNB3", 
+      "TTYH1", 
+      "TRPV3", 
+      "BEST1", 
+      "KCNJ4", 
+      "KCNV2", 
+      "SCN11A", 
+      "KCNG4", 
+      "SCNN1B", 
+      "KCNAB1", 
+      "KCNK9", 
+      "SCN9A", 
+      "CLIC4", 
+      "CLIC3", 
+      "CHRNA5", 
+      "KCNAB3", 
+      "CHRNB1", 
+      "CNGB3", 
+      "KCNS3", 
+      "LRRC8E", 
+      "KCNMB3", 
+      "KCNG3", 
+      "GRIK1", 
+      "TMEM37", 
+      "KCNK3", 
+      "CLCN5", 
+      "KCND3", 
+      "LRRC8C", 
+      "LRRC8D", 
+      "ANO5", 
+      "KCNK7", 
+      "KCNH6", 
+      "CHRNA9", 
+      "CATSPERD", 
+      "CATSPER1", 
+      "CHRNA7", 
+      "KCNE3", 
+      "ORAI3", 
+      "KCNE5", 
+      "GRIN1", 
+      "SCN4B", 
+      "ANO6", 
+      "KCNA3", 
+      "KCNA2", 
+      "KCNJ10", 
+      "HTR3C", 
+      "KCNG2", 
+      "HTR1A", 
+      "KCNE1", 
+      "KCNIP1", 
+      "KCNA4", 
+      "GABRG3", 
+      "KCNJ14", 
+      "CACNB4", 
+      "KCNK4", 
+      "KCNB2", 
+      "GRID1", 
+      "CALHM3", 
+      "GRIN2A", 
+      "CNGA2", 
+      "SCN5A", 
+      "KCNH8", 
+      "KCNQ3", 
+      "KCNJ12", 
+      "KCNK12", 
+      "KCND2", 
+      "KCNH7", 
+      "CLCNKB", 
+      "SCN10A", 
+      "KCNQ5", 
+      "KCNIP4", 
+      "CALHM1", 
+      "HTR3D", 
+      "GABRA5", 
+      "CLCNKA", 
+      "KCNK18", 
+      "TPCN1", 
+      "ZACN", 
+      "KCNJ11", 
+      "TRPV2", 
+      "GABRD", 
+      "P2RX2", 
+      "CLCN1", 
+      "GPR89B", 
+      "CATSPER4", 
+      "RYR1", 
+      "CACNA1H", 
+      "TRPV1", 
+      "CHRNG", 
+      "SCN8A", 
+      "LRRC8B", 
+      "KCNMB2", 
+      "CACNA1E", 
+      "CNGA1", 
+      "RYR2", 
+      "GRIN3A", 
+      "RYR3", 
+      "ASIC3", 
+      "VDAC1", 
+      "CLIC1", 
+      "KCNU1", 
+      "ASIC5", 
+      "GABRQ", 
+      "GRIN2B", 
+      "ORAI1", 
+      "PKD1L3"
+    ], 
+    "genesInfo": {
+      "ABCC9": {
+        "geneName": "ATP binding cassette subfamily C member 9", 
+        "inBETSE": false
+      }, 
+      "ANO1": {
+        "geneName": "anoctamin 1", 
+        "inBETSE": false
+      }, 
+      "ANO10": {
+        "geneName": "anoctamin 10", 
+        "inBETSE": false
+      }, 
+      "ANO2": {
+        "geneName": "anoctamin 2", 
+        "inBETSE": false
+      }, 
+      "ANO3": {
+        "geneName": "anoctamin 3", 
+        "inBETSE": false
+      }, 
+      "ANO4": {
+        "geneName": "anoctamin 4", 
+        "inBETSE": false
+      }, 
+      "ANO5": {
+        "geneName": "anoctamin 5", 
+        "inBETSE": false
+      }, 
+      "ANO6": {
+        "geneName": "anoctamin 6", 
+        "inBETSE": false
+      }, 
+      "ANO7": {
+        "geneName": "anoctamin 7", 
+        "inBETSE": false
+      }, 
+      "ANO8": {
+        "geneName": "anoctamin 8", 
+        "inBETSE": false
+      }, 
+      "ASIC1": {
+        "geneName": "acid sensing ion channel subunit 1", 
+        "inBETSE": false
+      }, 
+      "ASIC2": {
+        "geneName": "acid sensing ion channel subunit 2", 
+        "inBETSE": false
+      }, 
+      "ASIC3": {
+        "geneName": "acid sensing ion channel subunit 3", 
+        "inBETSE": false
+      }, 
+      "ASIC4": {
+        "geneName": "acid sensing ion channel subunit family member 4", 
+        "inBETSE": false
+      }, 
+      "ASIC5": {
+        "geneName": "acid sensing ion channel subunit family member 5", 
+        "inBETSE": false
+      }, 
+      "BEST1": {
+        "geneName": "bestrophin 1", 
+        "inBETSE": false
+      }, 
+      "BEST2": {
+        "geneName": "bestrophin 2", 
+        "inBETSE": false
+      }, 
+      "BEST3": {
+        "geneName": "bestrophin 3", 
+        "inBETSE": false
+      }, 
+      "BEST4": {
+        "geneName": "bestrophin 4", 
+        "inBETSE": false
+      }, 
+      "BSND": {
+        "geneName": "barttin CLCNK type accessory beta subunit", 
+        "inBETSE": false
+      }, 
+      "CACNA1A": {
+        "geneName": "calcium voltage-gated channel subunit alpha1 A", 
+        "inBETSE": true
+      }, 
+      "CACNA1B": {
+        "geneName": "calcium voltage-gated channel subunit alpha1 B", 
+        "inBETSE": false
+      }, 
+      "CACNA1C": {
+        "geneName": "calcium voltage-gated channel subunit alpha1 C", 
+        "inBETSE": true
+      }, 
+      "CACNA1D": {
+        "geneName": "calcium voltage-gated channel subunit alpha1 D", 
+        "inBETSE": true
+      }, 
+      "CACNA1E": {
+        "geneName": "calcium voltage-gated channel subunit alpha1 E", 
+        "inBETSE": true
+      }, 
+      "CACNA1F": {
+        "geneName": "calcium voltage-gated channel subunit alpha1 F", 
+        "inBETSE": true
+      }, 
+      "CACNA1G": {
+        "geneName": "calcium voltage-gated channel subunit alpha1 G", 
+        "inBETSE": true
+      }, 
+      "CACNA1H": {
+        "geneName": "calcium voltage-gated channel subunit alpha1 H", 
+        "inBETSE": false
+      }, 
+      "CACNA1I": {
+        "geneName": "calcium voltage-gated channel subunit alpha1 I", 
+        "inBETSE": false
+      }, 
+      "CACNA1S": {
+        "geneName": "calcium voltage-gated channel subunit alpha1 S", 
+        "inBETSE": true
+      }, 
+      "CACNA2D1": {
+        "geneName": "calcium voltage-gated channel auxiliary subunit alpha2delta 1", 
+        "inBETSE": false
+      }, 
+      "CACNA2D2": {
+        "geneName": "calcium voltage-gated channel auxiliary subunit alpha2delta 2", 
+        "inBETSE": false
+      }, 
+      "CACNA2D3": {
+        "geneName": "calcium voltage-gated channel auxiliary subunit alpha2delta 3", 
+        "inBETSE": false
+      }, 
+      "CACNA2D4": {
+        "geneName": "calcium voltage-gated channel auxiliary subunit alpha2delta 4", 
+        "inBETSE": false
+      }, 
+      "CACNB1": {
+        "geneName": "calcium voltage-gated channel auxiliary subunit beta 1", 
+        "inBETSE": false
+      }, 
+      "CACNB2": {
+        "geneName": "calcium voltage-gated channel auxiliary subunit beta 2", 
+        "inBETSE": false
+      }, 
+      "CACNB3": {
+        "geneName": "calcium voltage-gated channel auxiliary subunit beta 3", 
+        "inBETSE": false
+      }, 
+      "CACNB4": {
+        "geneName": "calcium voltage-gated channel auxiliary subunit beta 4", 
+        "inBETSE": false
+      }, 
+      "CACNG1": {
+        "geneName": "calcium voltage-gated channel auxiliary subunit gamma 1", 
+        "inBETSE": false
+      }, 
+      "CACNG2": {
+        "geneName": "calcium voltage-gated channel auxiliary subunit gamma 2", 
+        "inBETSE": false
+      }, 
+      "CACNG3": {
+        "geneName": "calcium voltage-gated channel auxiliary subunit gamma 3", 
+        "inBETSE": false
+      }, 
+      "CACNG4": {
+        "geneName": "calcium voltage-gated channel auxiliary subunit gamma 4", 
+        "inBETSE": false
+      }, 
+      "CACNG5": {
+        "geneName": "calcium voltage-gated channel auxiliary subunit gamma 5", 
+        "inBETSE": false
+      }, 
+      "CACNG6": {
+        "geneName": "calcium voltage-gated channel auxiliary subunit gamma 6", 
+        "inBETSE": false
+      }, 
+      "CACNG7": {
+        "geneName": "calcium voltage-gated channel auxiliary subunit gamma 7", 
+        "inBETSE": false
+      }, 
+      "CACNG8": {
+        "geneName": "calcium voltage-gated channel auxiliary subunit gamma 8", 
+        "inBETSE": false
+      }, 
+      "CALHM1": {
+        "geneName": "calcium homeostasis modulator 1", 
+        "inBETSE": false
+      }, 
+      "CALHM2": {
+        "geneName": "calcium homeostasis modulator family member 2", 
+        "inBETSE": false
+      }, 
+      "CALHM3": {
+        "geneName": "calcium homeostasis modulator 3", 
+        "inBETSE": false
+      }, 
+      "CATSPER1": {
+        "geneName": "cation channel sperm associated 1", 
+        "inBETSE": false
+      }, 
+      "CATSPER2": {
+        "geneName": "cation channel sperm associated 2", 
+        "inBETSE": false
+      }, 
+      "CATSPER3": {
+        "geneName": "cation channel sperm associated 3", 
+        "inBETSE": false
+      }, 
+      "CATSPER4": {
+        "geneName": "cation channel sperm associated 4", 
+        "inBETSE": false
+      }, 
+      "CATSPERB": {
+        "geneName": "cation channel sperm associated auxiliary subunit beta", 
+        "inBETSE": false
+      }, 
+      "CATSPERD": {
+        "geneName": "cation channel sperm associated auxiliary subunit delta", 
+        "inBETSE": false
+      }, 
+      "CATSPERG": {
+        "geneName": "cation channel sperm associated auxiliary subunit gamma", 
+        "inBETSE": false
+      }, 
+      "CFTR": {
+        "geneName": "cystic fibrosis transmembrane conductance regulator", 
+        "inBETSE": false
+      }, 
+      "CHRFAM7A": {
+        "geneName": "CHRNA7 (exons 5-10) and FAM7A (exons A-E) fusion", 
+        "inBETSE": false
+      }, 
+      "CHRNA1": {
+        "geneName": "cholinergic receptor nicotinic alpha 1 subunit", 
+        "inBETSE": false
+      }, 
+      "CHRNA10": {
+        "geneName": "cholinergic receptor nicotinic alpha 10 subunit", 
+        "inBETSE": false
+      }, 
+      "CHRNA2": {
+        "geneName": "cholinergic receptor nicotinic alpha 2 subunit", 
+        "inBETSE": false
+      }, 
+      "CHRNA3": {
+        "geneName": "cholinergic receptor nicotinic alpha 3 subunit", 
+        "inBETSE": false
+      }, 
+      "CHRNA4": {
+        "geneName": "cholinergic receptor nicotinic alpha 4 subunit", 
+        "inBETSE": false
+      }, 
+      "CHRNA5": {
+        "geneName": "cholinergic receptor nicotinic alpha 5 subunit", 
+        "inBETSE": false
+      }, 
+      "CHRNA6": {
+        "geneName": "cholinergic receptor nicotinic alpha 6 subunit", 
+        "inBETSE": false
+      }, 
+      "CHRNA7": {
+        "geneName": "cholinergic receptor nicotinic alpha 7 subunit", 
+        "inBETSE": false
+      }, 
+      "CHRNA9": {
+        "geneName": "cholinergic receptor nicotinic alpha 9 subunit", 
+        "inBETSE": false
+      }, 
+      "CHRNB1": {
+        "geneName": "cholinergic receptor nicotinic beta 1 subunit", 
+        "inBETSE": false
+      }, 
+      "CHRNB2": {
+        "geneName": "cholinergic receptor nicotinic beta 2 subunit", 
+        "inBETSE": false
+      }, 
+      "CHRNB3": {
+        "geneName": "cholinergic receptor nicotinic beta 3 subunit", 
+        "inBETSE": false
+      }, 
+      "CHRNB4": {
+        "geneName": "cholinergic receptor nicotinic beta 4 subunit", 
+        "inBETSE": false
+      }, 
+      "CHRND": {
+        "geneName": "cholinergic receptor nicotinic delta subunit", 
+        "inBETSE": false
+      }, 
+      "CHRNE": {
+        "geneName": "cholinergic receptor nicotinic epsilon subunit", 
+        "inBETSE": false
+      }, 
+      "CHRNG": {
+        "geneName": "cholinergic receptor nicotinic gamma subunit", 
+        "inBETSE": false
+      }, 
+      "CLCA1": {
+        "geneName": "chloride channel accessory 1", 
+        "inBETSE": false
+      }, 
+      "CLCA2": {
+        "geneName": "chloride channel accessory 2", 
+        "inBETSE": false
+      }, 
+      "CLCA4": {
+        "geneName": "chloride channel accessory 4", 
+        "inBETSE": false
+      }, 
+      "CLCN1": {
+        "geneName": "chloride voltage-gated channel 1", 
+        "inBETSE": false
+      }, 
+      "CLCN2": {
+        "geneName": "chloride voltage-gated channel 2", 
+        "inBETSE": false
+      }, 
+      "CLCN3": {
+        "geneName": "chloride voltage-gated channel 3", 
+        "inBETSE": false
+      }, 
+      "CLCN4": {
+        "geneName": "chloride voltage-gated channel 4", 
+        "inBETSE": false
+      }, 
+      "CLCN5": {
+        "geneName": "chloride voltage-gated channel 5", 
+        "inBETSE": false
+      }, 
+      "CLCN6": {
+        "geneName": "chloride voltage-gated channel 6", 
+        "inBETSE": false
+      }, 
+      "CLCN7": {
+        "geneName": "chloride voltage-gated channel 7", 
+        "inBETSE": false
+      }, 
+      "CLCNKA": {
+        "geneName": "chloride voltage-gated channel Ka", 
+        "inBETSE": false
+      }, 
+      "CLCNKB": {
+        "geneName": "chloride voltage-gated channel Kb", 
+        "inBETSE": false
+      }, 
+      "CLIC1": {
+        "geneName": "chloride intracellular channel 1", 
+        "inBETSE": false
+      }, 
+      "CLIC2": {
+        "geneName": "chloride intracellular channel 2", 
+        "inBETSE": false
+      }, 
+      "CLIC3": {
+        "geneName": "chloride intracellular channel 3", 
+        "inBETSE": false
+      }, 
+      "CLIC4": {
+        "geneName": "chloride intracellular channel 4", 
+        "inBETSE": false
+      }, 
+      "CLIC5": {
+        "geneName": "chloride intracellular channel 5", 
+        "inBETSE": false
+      }, 
+      "CLIC6": {
+        "geneName": "chloride intracellular channel 6", 
+        "inBETSE": false
+      }, 
+      "CNGA1": {
+        "geneName": "cyclic nucleotide gated channel alpha 1", 
+        "inBETSE": false
+      }, 
+      "CNGA2": {
+        "geneName": "cyclic nucleotide gated channel alpha 2", 
+        "inBETSE": false
+      }, 
+      "CNGA3": {
+        "geneName": "cyclic nucleotide gated channel alpha 3", 
+        "inBETSE": false
+      }, 
+      "CNGA4": {
+        "geneName": "cyclic nucleotide gated channel alpha 4", 
+        "inBETSE": false
+      }, 
+      "CNGB1": {
+        "geneName": "cyclic nucleotide gated channel beta 1", 
+        "inBETSE": false
+      }, 
+      "CNGB3": {
+        "geneName": "cyclic nucleotide gated channel beta 3", 
+        "inBETSE": false
+      }, 
+      "GABRA1": {
+        "geneName": "gamma-aminobutyric acid type A receptor alpha1 subunit", 
+        "inBETSE": false
+      }, 
+      "GABRA2": {
+        "geneName": "gamma-aminobutyric acid type A receptor alpha2 subunit", 
+        "inBETSE": false
+      }, 
+      "GABRA3": {
+        "geneName": "gamma-aminobutyric acid type A receptor alpha3 subunit", 
+        "inBETSE": false
+      }, 
+      "GABRA4": {
+        "geneName": "gamma-aminobutyric acid type A receptor alpha4 subunit", 
+        "inBETSE": false
+      }, 
+      "GABRA5": {
+        "geneName": "gamma-aminobutyric acid type A receptor alpha5 subunit", 
+        "inBETSE": false
+      }, 
+      "GABRA6": {
+        "geneName": "gamma-aminobutyric acid type A receptor alpha6 subunit", 
+        "inBETSE": false
+      }, 
+      "GABRB1": {
+        "geneName": "gamma-aminobutyric acid type A receptor beta1 subunit", 
+        "inBETSE": false
+      }, 
+      "GABRB2": {
+        "geneName": "gamma-aminobutyric acid type A receptor beta2 subunit", 
+        "inBETSE": false
+      }, 
+      "GABRB3": {
+        "geneName": "gamma-aminobutyric acid type A receptor beta3 subunit", 
+        "inBETSE": false
+      }, 
+      "GABRD": {
+        "geneName": "gamma-aminobutyric acid type A receptor delta subunit", 
+        "inBETSE": false
+      }, 
+      "GABRE": {
+        "geneName": "gamma-aminobutyric acid type A receptor epsilon subunit", 
+        "inBETSE": false
+      }, 
+      "GABRG1": {
+        "geneName": "gamma-aminobutyric acid type A receptor gamma1 subunit", 
+        "inBETSE": false
+      }, 
+      "GABRG2": {
+        "geneName": "gamma-aminobutyric acid type A receptor gamma2 subunit", 
+        "inBETSE": false
+      }, 
+      "GABRG3": {
+        "geneName": "gamma-aminobutyric acid type A receptor gamma3 subunit", 
+        "inBETSE": false
+      }, 
+      "GABRP": {
+        "geneName": "gamma-aminobutyric acid type A receptor pi subunit", 
+        "inBETSE": false
+      }, 
+      "GABRQ": {
+        "geneName": "gamma-aminobutyric acid type A receptor theta subunit", 
+        "inBETSE": false
+      }, 
+      "GABRR1": {
+        "geneName": "gamma-aminobutyric acid type A receptor rho1 subunit", 
+        "inBETSE": false
+      }, 
+      "GABRR2": {
+        "geneName": "gamma-aminobutyric acid type A receptor rho2 subunit", 
+        "inBETSE": false
+      }, 
+      "GPR89B": {
+        "geneName": "G protein-coupled receptor 89B", 
+        "inBETSE": false
+      }, 
+      "GRIA1": {
+        "geneName": "glutamate ionotropic receptor AMPA type subunit 1", 
+        "inBETSE": false
+      }, 
+      "GRIA2": {
+        "geneName": "glutamate ionotropic receptor AMPA type subunit 2", 
+        "inBETSE": false
+      }, 
+      "GRIA3": {
+        "geneName": "glutamate ionotropic receptor AMPA type subunit 3", 
+        "inBETSE": false
+      }, 
+      "GRIA4": {
+        "geneName": "glutamate ionotropic receptor AMPA type subunit 4", 
+        "inBETSE": false
+      }, 
+      "GRID1": {
+        "geneName": "glutamate ionotropic receptor delta type subunit 1", 
+        "inBETSE": false
+      }, 
+      "GRID2": {
+        "geneName": "glutamate ionotropic receptor delta type subunit 2", 
+        "inBETSE": false
+      }, 
+      "GRIK1": {
+        "geneName": "glutamate ionotropic receptor kainate type subunit 1", 
+        "inBETSE": false
+      }, 
+      "GRIK2": {
+        "geneName": "glutamate ionotropic receptor kainate type subunit 2", 
+        "inBETSE": false
+      }, 
+      "GRIK3": {
+        "geneName": "glutamate ionotropic receptor kainate type subunit 3", 
+        "inBETSE": false
+      }, 
+      "GRIK4": {
+        "geneName": "glutamate ionotropic receptor kainate type subunit 4", 
+        "inBETSE": false
+      }, 
+      "GRIK5": {
+        "geneName": "glutamate ionotropic receptor kainate type subunit 5", 
+        "inBETSE": false
+      }, 
+      "GRIN1": {
+        "geneName": "glutamate ionotropic receptor NMDA type subunit 1", 
+        "inBETSE": false
+      }, 
+      "GRIN2A": {
+        "geneName": "glutamate ionotropic receptor NMDA type subunit 2A", 
+        "inBETSE": false
+      }, 
+      "GRIN2B": {
+        "geneName": "glutamate ionotropic receptor NMDA type subunit 2B", 
+        "inBETSE": false
+      }, 
+      "GRIN2C": {
+        "geneName": "glutamate ionotropic receptor NMDA type subunit 2C", 
+        "inBETSE": false
+      }, 
+      "GRIN2D": {
+        "geneName": "glutamate ionotropic receptor NMDA type subunit 2D", 
+        "inBETSE": false
+      }, 
+      "GRIN3A": {
+        "geneName": "glutamate ionotropic receptor NMDA type subunit 3A", 
+        "inBETSE": false
+      }, 
+      "GRIN3B": {
+        "geneName": "glutamate ionotropic receptor NMDA type subunit 3B", 
+        "inBETSE": false
+      }, 
+      "HCN1": {
+        "geneName": "hyperpolarization activated cyclic nucleotide gated potassium channel 1", 
+        "inBETSE": true
+      }, 
+      "HCN2": {
+        "geneName": "hyperpolarization activated cyclic nucleotide gated potassium and sodium channel 2", 
+        "inBETSE": true
+      }, 
+      "HCN3": {
+        "geneName": "hyperpolarization activated cyclic nucleotide gated potassium channel 3", 
+        "inBETSE": false
+      }, 
+      "HCN4": {
+        "geneName": "hyperpolarization activated cyclic nucleotide gated potassium channel 4", 
+        "inBETSE": false
+      }, 
+      "HTR1A": {
+        "geneName": "5-hydroxytryptamine receptor 1A", 
+        "inBETSE": false
+      }, 
+      "HTR2A": {
+        "geneName": "5-hydroxytryptamine receptor 2A", 
+        "inBETSE": false
+      }, 
+      "HTR3A": {
+        "geneName": "5-hydroxytryptamine receptor 3A", 
+        "inBETSE": false
+      }, 
+      "HTR3B": {
+        "geneName": "5-hydroxytryptamine receptor 3B", 
+        "inBETSE": false
+      }, 
+      "HTR3C": {
+        "geneName": "5-hydroxytryptamine receptor 3C", 
+        "inBETSE": false
+      }, 
+      "HTR3D": {
+        "geneName": "5-hydroxytryptamine receptor 3D", 
+        "inBETSE": false
+      }, 
+      "HVCN1": {
+        "geneName": "hydrogen voltage gated channel 1", 
+        "inBETSE": false
+      }, 
+      "KCNA1": {
+        "geneName": "potassium voltage-gated channel subfamily A member 1", 
+        "inBETSE": true
+      }, 
+      "KCNA10": {
+        "geneName": "potassium voltage-gated channel subfamily A member 10", 
+        "inBETSE": false
+      }, 
+      "KCNA2": {
+        "geneName": "potassium voltage-gated channel subfamily A member 2", 
+        "inBETSE": true
+      }, 
+      "KCNA3": {
+        "geneName": "potassium voltage-gated channel subfamily A member 3", 
+        "inBETSE": true
+      }, 
+      "KCNA4": {
+        "geneName": "potassium voltage-gated channel subfamily A member 4", 
+        "inBETSE": true
+      }, 
+      "KCNA5": {
+        "geneName": "potassium voltage-gated channel subfamily A member 5", 
+        "inBETSE": true
+      }, 
+      "KCNA6": {
+        "geneName": "potassium voltage-gated channel subfamily A member 6", 
+        "inBETSE": true
+      }, 
+      "KCNA7": {
+        "geneName": "potassium voltage-gated channel subfamily A member 7", 
+        "inBETSE": false
+      }, 
+      "KCNAB1": {
+        "geneName": "potassium voltage-gated channel subfamily A member regulatory beta subunit 1", 
+        "inBETSE": false
+      }, 
+      "KCNAB2": {
+        "geneName": "potassium voltage-gated channel subfamily A regulatory beta subunit 2", 
+        "inBETSE": false
+      }, 
+      "KCNAB3": {
+        "geneName": "potassium voltage-gated channel subfamily A regulatory beta subunit 3", 
+        "inBETSE": false
+      }, 
+      "KCNB1": {
+        "geneName": "potassium voltage-gated channel subfamily B member 1", 
+        "inBETSE": true
+      }, 
+      "KCNB2": {
+        "geneName": "potassium voltage-gated channel subfamily B member 2", 
+        "inBETSE": true
+      }, 
+      "KCNC1": {
+        "geneName": "potassium voltage-gated channel subfamily C member 1", 
+        "inBETSE": true
+      }, 
+      "KCNC2": {
+        "geneName": "potassium voltage-gated channel subfamily C member 2", 
+        "inBETSE": true
+      }, 
+      "KCNC3": {
+        "geneName": "potassium voltage-gated channel subfamily C member 3", 
+        "inBETSE": true
+      }, 
+      "KCNC4": {
+        "geneName": "potassium voltage-gated channel subfamily C member 4", 
+        "inBETSE": true
+      }, 
+      "KCND1": {
+        "geneName": "potassium voltage-gated channel subfamily D member 1", 
+        "inBETSE": false
+      }, 
+      "KCND2": {
+        "geneName": "potassium voltage-gated channel subfamily D member 2", 
+        "inBETSE": false
+      }, 
+      "KCND3": {
+        "geneName": "potassium voltage-gated channel subfamily D member 3", 
+        "inBETSE": false
+      }, 
+      "KCNE1": {
+        "geneName": "potassium voltage-gated channel subfamily E regulatory subunit 1", 
+        "inBETSE": false
+      }, 
+      "KCNE2": {
+        "geneName": "potassium voltage-gated channel subfamily E regulatory subunit 2", 
+        "inBETSE": false
+      }, 
+      "KCNE3": {
+        "geneName": "potassium voltage-gated channel subfamily E regulatory subunit 3", 
+        "inBETSE": false
+      }, 
+      "KCNE4": {
+        "geneName": "potassium voltage-gated channel subfamily E regulatory subunit 4", 
+        "inBETSE": false
+      }, 
+      "KCNE5": {
+        "geneName": "potassium voltage-gated channel subfamily E regulatory subunit 5", 
+        "inBETSE": false
+      }, 
+      "KCNF1": {
+        "geneName": "potassium voltage-gated channel modifier subfamily F member 1", 
+        "inBETSE": false
+      }, 
+      "KCNG1": {
+        "geneName": "potassium voltage-gated channel modifier subfamily G member 1", 
+        "inBETSE": false
+      }, 
+      "KCNG2": {
+        "geneName": "potassium voltage-gated channel modifier subfamily G member 2", 
+        "inBETSE": false
+      }, 
+      "KCNG3": {
+        "geneName": "potassium voltage-gated channel modifier subfamily G member 3", 
+        "inBETSE": false
+      }, 
+      "KCNG4": {
+        "geneName": "potassium voltage-gated channel modifier subfamily G member 4", 
+        "inBETSE": false
+      }, 
+      "KCNH1": {
+        "geneName": "potassium voltage-gated channel subfamily H member 1", 
+        "inBETSE": false
+      }, 
+      "KCNH2": {
+        "geneName": "potassium voltage-gated channel subfamily H member 2", 
+        "inBETSE": false
+      }, 
+      "KCNH3": {
+        "geneName": "potassium voltage-gated channel subfamily H member 3", 
+        "inBETSE": false
+      }, 
+      "KCNH4": {
+        "geneName": "potassium voltage-gated channel subfamily H member 4", 
+        "inBETSE": false
+      }, 
+      "KCNH5": {
+        "geneName": "potassium voltage-gated channel subfamily H member 5", 
+        "inBETSE": false
+      }, 
+      "KCNH6": {
+        "geneName": "potassium voltage-gated channel subfamily H member 6", 
+        "inBETSE": false
+      }, 
+      "KCNH7": {
+        "geneName": "potassium voltage-gated channel subfamily H member 7", 
+        "inBETSE": false
+      }, 
+      "KCNH8": {
+        "geneName": "potassium voltage-gated channel subfamily H member 8", 
+        "inBETSE": false
+      }, 
+      "KCNIP1": {
+        "geneName": "potassium voltage-gated channel interacting protein 1", 
+        "inBETSE": false
+      }, 
+      "KCNIP2": {
+        "geneName": "potassium voltage-gated channel interacting protein 2", 
+        "inBETSE": false
+      }, 
+      "KCNIP3": {
+        "geneName": "potassium voltage-gated channel interacting protein 3", 
+        "inBETSE": false
+      }, 
+      "KCNIP4": {
+        "geneName": "potassium voltage-gated channel interacting protein 4", 
+        "inBETSE": false
+      }, 
+      "KCNJ1": {
+        "geneName": "potassium voltage-gated channel subfamily J member 1", 
+        "inBETSE": false
+      }, 
+      "KCNJ10": {
+        "geneName": "potassium voltage-gated channel subfamily J member 10", 
+        "inBETSE": false
+      }, 
+      "KCNJ11": {
+        "geneName": "potassium voltage-gated channel subfamily J member 11", 
+        "inBETSE": false
+      }, 
+      "KCNJ12": {
+        "geneName": "potassium voltage-gated channel subfamily J member 12", 
+        "inBETSE": false
+      }, 
+      "KCNJ13": {
+        "geneName": "potassium voltage-gated channel subfamily J member 13", 
+        "inBETSE": false
+      }, 
+      "KCNJ14": {
+        "geneName": "potassium voltage-gated channel subfamily J member 14", 
+        "inBETSE": false
+      }, 
+      "KCNJ15": {
+        "geneName": "potassium voltage-gated channel subfamily J member 15", 
+        "inBETSE": false
+      }, 
+      "KCNJ16": {
+        "geneName": "potassium voltage-gated channel subfamily J member 16", 
+        "inBETSE": false
+      }, 
+      "KCNJ2": {
+        "geneName": "potassium voltage-gated channel subfamily J member 2", 
+        "inBETSE": true
+      }, 
+      "KCNJ3": {
+        "geneName": "potassium voltage-gated channel subfamily J member 3", 
+        "inBETSE": false
+      }, 
+      "KCNJ4": {
+        "geneName": "potassium voltage-gated channel subfamily J member 4", 
+        "inBETSE": false
+      }, 
+      "KCNJ5": {
+        "geneName": "potassium voltage-gated channel subfamily J member 5", 
+        "inBETSE": false
+      }, 
+      "KCNJ6": {
+        "geneName": "potassium voltage-gated channel subfamily J member 6", 
+        "inBETSE": false
+      }, 
+      "KCNJ8": {
+        "geneName": "potassium voltage-gated channel subfamily J member 8", 
+        "inBETSE": false
+      }, 
+      "KCNJ9": {
+        "geneName": "potassium voltage-gated channel subfamily J member 9", 
+        "inBETSE": false
+      }, 
+      "KCNK1": {
+        "geneName": "potassium two pore domain channel subfamily K member 1", 
+        "inBETSE": false
+      }, 
+      "KCNK10": {
+        "geneName": "potassium two pore domain channel subfamily K member 10", 
+        "inBETSE": false
+      }, 
+      "KCNK12": {
+        "geneName": "potassium two pore domain channel subfamily K member 12", 
+        "inBETSE": false
+      }, 
+      "KCNK13": {
+        "geneName": "potassium two pore domain channel subfamily K member 13", 
+        "inBETSE": false
+      }, 
+      "KCNK16": {
+        "geneName": "potassium two pore domain channel subfamily K member 16", 
+        "inBETSE": false
+      }, 
+      "KCNK17": {
+        "geneName": "potassium two pore domain channel subfamily K member 17", 
+        "inBETSE": false
+      }, 
+      "KCNK18": {
+        "geneName": "potassium two pore domain channel subfamily K member 18", 
+        "inBETSE": false
+      }, 
+      "KCNK2": {
+        "geneName": "potassium two pore domain channel subfamily K member 2", 
+        "inBETSE": false
+      }, 
+      "KCNK3": {
+        "geneName": "potassium two pore domain channel subfamily K member 3", 
+        "inBETSE": false
+      }, 
+      "KCNK4": {
+        "geneName": "potassium two pore domain channel subfamily K member 4", 
+        "inBETSE": false
+      }, 
+      "KCNK5": {
+        "geneName": "potassium two pore domain channel subfamily K member 5", 
+        "inBETSE": false
+      }, 
+      "KCNK6": {
+        "geneName": "potassium two pore domain channel subfamily K member 6", 
+        "inBETSE": false
+      }, 
+      "KCNK7": {
+        "geneName": "potassium two pore domain channel subfamily K member 7", 
+        "inBETSE": false
+      }, 
+      "KCNK9": {
+        "geneName": "potassium two pore domain channel subfamily K member 9", 
+        "inBETSE": false
+      }, 
+      "KCNMA1": {
+        "geneName": "potassium calcium-activated channel subfamily M alpha 1", 
+        "inBETSE": false
+      }, 
+      "KCNMB1": {
+        "geneName": "potassium calcium-activated channel subfamily M regulatory beta subunit 1", 
+        "inBETSE": false
+      }, 
+      "KCNMB2": {
+        "geneName": "potassium calcium-activated channel subfamily M regulatory beta subunit 2", 
+        "inBETSE": false
+      }, 
+      "KCNMB3": {
+        "geneName": "potassium calcium-activated channel subfamily M regulatory beta subunit 3", 
+        "inBETSE": false
+      }, 
+      "KCNMB4": {
+        "geneName": "potassium calcium-activated channel subfamily M regulatory beta subunit 4", 
+        "inBETSE": false
+      }, 
+      "KCNN1": {
+        "geneName": "potassium calcium-activated channel subfamily N member 1", 
+        "inBETSE": false
+      }, 
+      "KCNN2": {
+        "geneName": "potassium calcium-activated channel subfamily N member 2", 
+        "inBETSE": false
+      }, 
+      "KCNN3": {
+        "geneName": "potassium calcium-activated channel subfamily N member 3", 
+        "inBETSE": false
+      }, 
+      "KCNN4": {
+        "geneName": "potassium calcium-activated channel subfamily N member 4", 
+        "inBETSE": false
+      }, 
+      "KCNQ1": {
+        "geneName": "potassium voltage-gated channel subfamily Q member 1", 
+        "inBETSE": false
+      }, 
+      "KCNQ2": {
+        "geneName": "potassium voltage-gated channel subfamily Q member 2", 
+        "inBETSE": false
+      }, 
+      "KCNQ3": {
+        "geneName": "potassium voltage-gated channel subfamily Q member 3", 
+        "inBETSE": false
+      }, 
+      "KCNQ4": {
+        "geneName": "potassium voltage-gated channel subfamily Q member 4", 
+        "inBETSE": false
+      }, 
+      "KCNQ5": {
+        "geneName": "potassium voltage-gated channel subfamily Q member 5", 
+        "inBETSE": false
+      }, 
+      "KCNS1": {
+        "geneName": "potassium voltage-gated channel modifier subfamily S member 1", 
+        "inBETSE": false
+      }, 
+      "KCNS2": {
+        "geneName": "potassium voltage-gated channel modifier subfamily S member 2", 
+        "inBETSE": false
+      }, 
+      "KCNS3": {
+        "geneName": "potassium voltage-gated channel modifier subfamily S member 3", 
+        "inBETSE": false
+      }, 
+      "KCNT1": {
+        "geneName": "potassium sodium-activated channel subfamily T member 1", 
+        "inBETSE": false
+      }, 
+      "KCNT2": {
+        "geneName": "potassium sodium-activated channel subfamily T member 2", 
+        "inBETSE": false
+      }, 
+      "KCNU1": {
+        "geneName": "potassium calcium-activated channel subfamily U member 1", 
+        "inBETSE": false
+      }, 
+      "KCNV1": {
+        "geneName": "potassium voltage-gated channel modifier subfamily V member 1", 
+        "inBETSE": false
+      }, 
+      "KCNV2": {
+        "geneName": "potassium voltage-gated channel modifier subfamily V member 2", 
+        "inBETSE": false
+      }, 
+      "LRRC8A": {
+        "geneName": "leucine rich repeat containing 8 VRAC subunit A", 
+        "inBETSE": false
+      }, 
+      "LRRC8B": {
+        "geneName": "leucine rich repeat containing 8 VRAC subunit B", 
+        "inBETSE": false
+      }, 
+      "LRRC8C": {
+        "geneName": "leucine rich repeat containing 8 VRAC subunit C", 
+        "inBETSE": false
+      }, 
+      "LRRC8D": {
+        "geneName": "leucine rich repeat containing 8 VRAC subunit D", 
+        "inBETSE": false
+      }, 
+      "LRRC8E": {
+        "geneName": "leucine rich repeat containing 8 VRAC subunit E", 
+        "inBETSE": false
+      }, 
+      "MCOLN1": {
+        "geneName": "mucolipin 1", 
+        "inBETSE": false
+      }, 
+      "MCOLN2": {
+        "geneName": "mucolipin 2", 
+        "inBETSE": false
+      }, 
+      "MCOLN3": {
+        "geneName": "mucolipin 3", 
+        "inBETSE": false
+      }, 
+      "NALCN": {
+        "geneName": "sodium leak channel, non-selective", 
+        "inBETSE": false
+      }, 
+      "ORAI1": {
+        "geneName": "ORAI calcium release-activated calcium modulator 1", 
+        "inBETSE": false
+      }, 
+      "ORAI2": {
+        "geneName": "ORAI calcium release-activated calcium modulator 2", 
+        "inBETSE": false
+      }, 
+      "ORAI3": {
+        "geneName": "ORAI calcium release-activated calcium modulator 3", 
+        "inBETSE": false
+      }, 
+      "P2RX1": {
+        "geneName": "purinergic receptor P2X 1", 
+        "inBETSE": false
+      }, 
+      "P2RX2": {
+        "geneName": "purinergic receptor P2X 2", 
+        "inBETSE": false
+      }, 
+      "P2RX3": {
+        "geneName": "purinergic receptor P2X 3", 
+        "inBETSE": false
+      }, 
+      "P2RX4": {
+        "geneName": "purinergic receptor P2X 4", 
+        "inBETSE": false
+      }, 
+      "P2RX5": {
+        "geneName": "purinergic receptor P2X 5", 
+        "inBETSE": false
+      }, 
+      "P2RX6": {
+        "geneName": "purinergic receptor P2X 6", 
+        "inBETSE": false
+      }, 
+      "P2RX7": {
+        "geneName": "purinergic receptor P2X 7", 
+        "inBETSE": false
+      }, 
+      "PIEZO1": {
+        "geneName": "piezo type mechanosensitive ion channel component 1", 
+        "inBETSE": false
+      }, 
+      "PIEZO2": {
+        "geneName": "piezo type mechanosensitive ion channel component 2", 
+        "inBETSE": false
+      }, 
+      "PKD1L1": {
+        "geneName": "polycystin 1 like 1, transient receptor potential channel interacting", 
+        "inBETSE": false
+      }, 
+      "PKD1L3": {
+        "geneName": "polycystin 1 like 3, transient receptor potential channel interacting", 
+        "inBETSE": false
+      }, 
+      "PKD2": {
+        "geneName": "polycystin 2, transient receptor potential cation channel", 
+        "inBETSE": false
+      }, 
+      "PKD2L1": {
+        "geneName": "polycystin 2 like 1, transient receptor potential cation channel", 
+        "inBETSE": false
+      }, 
+      "PKD2L2": {
+        "geneName": "polycystin 2 like 2, transient receptor potential cation channel", 
+        "inBETSE": false
+      }, 
+      "PKDREJ": {
+        "geneName": "polycystin family receptor for egg jell", 
+        "inBETSE": false
+      }, 
+      "RYR1": {
+        "geneName": "ryanodine receptor 1", 
+        "inBETSE": false
+      }, 
+      "RYR2": {
+        "geneName": "ryanodine receptor 2", 
+        "inBETSE": false
+      }, 
+      "RYR3": {
+        "geneName": "ryanodine receptor 3", 
+        "inBETSE": false
+      }, 
+      "SCN10A": {
+        "geneName": "sodium voltage-gated channel alpha subunit 10", 
+        "inBETSE": false
+      }, 
+      "SCN11A": {
+        "geneName": "sodium voltage-gated channel alpha subunit 11", 
+        "inBETSE": false
+      }, 
+      "SCN1A": {
+        "geneName": "sodium voltage-gated channel alpha subunit 1", 
+        "inBETSE": false
+      }, 
+      "SCN1B": {
+        "geneName": "sodium voltage-gated channel beta subunit 1", 
+        "inBETSE": false
+      }, 
+      "SCN2A": {
+        "geneName": "sodium voltage-gated channel alpha subunit 2", 
+        "inBETSE": true
+      }, 
+      "SCN2B": {
+        "geneName": "sodium voltage-gated channel beta subunit 2", 
+        "inBETSE": false
+      }, 
+      "SCN3A": {
+        "geneName": "sodium voltage-gated channel alpha subunit 3", 
+        "inBETSE": true
+      }, 
+      "SCN3B": {
+        "geneName": "sodium voltage-gated channel beta subunit 3", 
+        "inBETSE": false
+      }, 
+      "SCN4A": {
+        "geneName": "sodium voltage-gated channel alpha subunit 4", 
+        "inBETSE": false
+      }, 
+      "SCN4B": {
+        "geneName": "sodium voltage-gated channel beta subunit 4", 
+        "inBETSE": false
+      }, 
+      "SCN5A": {
+        "geneName": "sodium voltage-gated channel alpha subunit 5", 
+        "inBETSE": false
+      }, 
+      "SCN7A": {
+        "geneName": "sodium voltage-gated channel alpha subunit 7", 
+        "inBETSE": false
+      }, 
+      "SCN8A": {
+        "geneName": "sodium voltage-gated channel alpha subunit 8", 
+        "inBETSE": true
+      }, 
+      "SCN9A": {
+        "geneName": "sodium voltage-gated channel alpha subunit 9", 
+        "inBETSE": false
+      }, 
+      "SCNN1A": {
+        "geneName": "sodium channel epithelial 1 alpha subunit", 
+        "inBETSE": false
+      }, 
+      "SCNN1B": {
+        "geneName": "sodium channel epithelial 1 beta subunit", 
+        "inBETSE": false
+      }, 
+      "SCNN1D": {
+        "geneName": "sodium channel epithelial 1 delta subunit", 
+        "inBETSE": false
+      }, 
+      "SCNN1G": {
+        "geneName": "sodium channel epithelial 1 gamma subunit", 
+        "inBETSE": false
+      }, 
+      "TMC1": {
+        "geneName": "transmembrane channel like 1", 
+        "inBETSE": false
+      }, 
+      "TMC2": {
+        "geneName": "transmembrane channel like 2", 
+        "inBETSE": false
+      }, 
+      "TMCO1": {
+        "geneName": "transmembrane and coiled-coil domains 1", 
+        "inBETSE": false
+      }, 
+      "TMEM175": {
+        "geneName": "transmembrane protein 175", 
+        "inBETSE": false
+      }, 
+      "TMEM37": {
+        "geneName": "transmembrane protein 37", 
+        "inBETSE": false
+      }, 
+      "TMEM38A": {
+        "geneName": "transmembrane protein 38A", 
+        "inBETSE": false
+      }, 
+      "TMEM38B": {
+        "geneName": "transmembrane protein 38B", 
+        "inBETSE": false
+      }, 
+      "TMEM63C": {
+        "geneName": "transmembrane protein 63C", 
+        "inBETSE": false
+      }, 
+      "TPCN1": {
+        "geneName": "two pore segment channel 1", 
+        "inBETSE": false
+      }, 
+      "TPCN2": {
+        "geneName": "two pore segment channel 2", 
+        "inBETSE": false
+      }, 
+      "TRPA1": {
+        "geneName": "transient receptor potential cation channel subfamily A member 1", 
+        "inBETSE": false
+      }, 
+      "TRPC1": {
+        "geneName": "transient receptor potential cation channel subfamily C member 1", 
+        "inBETSE": false
+      }, 
+      "TRPC3": {
+        "geneName": "transient receptor potential cation channel subfamily C member 3", 
+        "inBETSE": false
+      }, 
+      "TRPC4": {
+        "geneName": "transient receptor potential cation channel subfamily C member 4", 
+        "inBETSE": false
+      }, 
+      "TRPC4AP": {
+        "geneName": "transient receptor potential cation channel subfamily C member 4 associated protein", 
+        "inBETSE": false
+      }, 
+      "TRPC5": {
+        "geneName": "transient receptor potential cation channel subfamily C member 5", 
+        "inBETSE": false
+      }, 
+      "TRPC6": {
+        "geneName": "transient receptor potential cation channel subfamily C member 6", 
+        "inBETSE": false
+      }, 
+      "TRPC7": {
+        "geneName": "transient receptor potential cation channel subfamily C member 7", 
+        "inBETSE": false
+      }, 
+      "TRPM1": {
+        "geneName": "transient receptor potential cation channel subfamily M member 1", 
+        "inBETSE": false
+      }, 
+      "TRPM2": {
+        "geneName": "transient receptor potential cation channel subfamily M member 2", 
+        "inBETSE": false
+      }, 
+      "TRPM3": {
+        "geneName": "transient receptor potential cation channel subfamily M member 3", 
+        "inBETSE": false
+      }, 
+      "TRPM4": {
+        "geneName": "transient receptor potential cation channel subfamily M member 4", 
+        "inBETSE": false
+      }, 
+      "TRPM5": {
+        "geneName": "transient receptor potential cation channel subfamily M member 5", 
+        "inBETSE": false
+      }, 
+      "TRPM6": {
+        "geneName": "transient receptor potential cation channel subfamily M member 6", 
+        "inBETSE": false
+      }, 
+      "TRPM7": {
+        "geneName": "transient receptor potential cation channel subfamily M member 7", 
+        "inBETSE": false
+      }, 
+      "TRPM8": {
+        "geneName": "transient receptor potential cation channel subfamily M member 8", 
+        "inBETSE": false
+      }, 
+      "TRPV1": {
+        "geneName": "transient receptor potential cation channel subfamily V member 1", 
+        "inBETSE": false
+      }, 
+      "TRPV2": {
+        "geneName": "transient receptor potential cation channel subfamily V member 2", 
+        "inBETSE": false
+      }, 
+      "TRPV3": {
+        "geneName": "transient receptor potential cation channel subfamily V member 3", 
+        "inBETSE": false
+      }, 
+      "TRPV4": {
+        "geneName": "transient receptor potential cation channel subfamily V member 4", 
+        "inBETSE": false
+      }, 
+      "TRPV5": {
+        "geneName": "transient receptor potential cation channel subfamily V member 5", 
+        "inBETSE": false
+      }, 
+      "TRPV6": {
+        "geneName": "transient receptor potential cation channel subfamily V member 6", 
+        "inBETSE": false
+      }, 
+      "TTYH1": {
+        "geneName": "tweety family member 1", 
+        "inBETSE": false
+      }, 
+      "TTYH2": {
+        "geneName": "tweety family member 2", 
+        "inBETSE": false
+      }, 
+      "TTYH3": {
+        "geneName": "tweety family member 3", 
+        "inBETSE": false
+      }, 
+      "VDAC1": {
+        "geneName": "voltage dependent anion channel 1", 
+        "inBETSE": false
+      }, 
+      "VDAC2": {
+        "geneName": "voltage dependent anion channel 2", 
+        "inBETSE": false
+      }, 
+      "VDAC3": {
+        "geneName": "voltage dependent anion channel 3", 
+        "inBETSE": false
+      }, 
+      "ZACN": {
+        "geneName": "zinc activated ion channel", 
+        "inBETSE": false
+      }
+    }, 
+    "tissueA": {
+      "ABCC9": {
+        "QtExpression_mean": 7.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 4.34285714285714
+      }, 
+      "ANO1": {
+        "QtExpression_mean": 105.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          0, 
+          0, 
+          1
+        ], 
+        "specificityScore": 63.3936507936508
+      }, 
+      "ANO10": {
+        "QtExpression_mean": 27.5, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          1, 
+          1, 
+          0
+        ], 
+        "specificityScore": 11.7857142857143
+      }, 
+      "ANO2": {
+        "QtExpression_mean": 1.9, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 1.7972972972973
+      }, 
+      "ANO3": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          0, 
+          3, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.193650793650794
+      }, 
+      "ANO4": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0875
+      }, 
+      "ANO5": {
+        "QtExpression_mean": 1.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.857142857142857
+      }, 
+      "ANO6": {
+        "QtExpression_mean": 30.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          0, 
+          0, 
+          1, 
+          2
+        ], 
+        "specificityScore": 12.1774193548387
+      }, 
+      "ANO7": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "ANO8": {
+        "QtExpression_mean": 3.7, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 2.81904761904762
+      }, 
+      "ASIC1": {
+        "QtExpression_mean": 2.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 2.02162162162162
+      }, 
+      "ASIC2": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0968253968253968
+      }, 
+      "ASIC3": {
+        "QtExpression_mean": 0.5, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          1, 
+          1, 
+          0
+        ], 
+        "specificityScore": 0.484126984126984
+      }, 
+      "ASIC4": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "ASIC5": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          0, 
+          1, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "BEST1": {
+        "QtExpression_mean": 3.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 2.59047619047619
+      }, 
+      "BEST2": {
+        "QtExpression_mean": 1.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 1.06507936507937
+      }, 
+      "BEST3": {
+        "QtExpression_mean": 1.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          1, 
+          0, 
+          0
+        ], 
+        "specificityScore": 1.04761904761905
+      }, 
+      "BEST4": {
+        "QtExpression_mean": 0.6, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.557142857142857
+      }, 
+      "BSND": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0984126984126984
+      }, 
+      "CACNA1A": {
+        "QtExpression_mean": 0.3, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.29047619047619
+      }, 
+      "CACNA1B": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "CACNA1C": {
+        "QtExpression_mean": 2.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          0, 
+          1, 
+          1, 
+          1
+        ], 
+        "specificityScore": 1.68253968253968
+      }, 
+      "CACNA1D": {
+        "QtExpression_mean": 2.9, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          1, 
+          0, 
+          0
+        ], 
+        "specificityScore": 2.57258064516129
+      }, 
+      "CACNA1E": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "CACNA1F": {
+        "QtExpression_mean": 0.8, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.8
+      }, 
+      "CACNA1G": {
+        "QtExpression_mean": 0.6, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.567857142857143
+      }, 
+      "CACNA1H": {
+        "QtExpression_mean": 1.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.682539682539683
+      }, 
+      "CACNA1I": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.1
+      }, 
+      "CACNA1S": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "CACNA2D1": {
+        "QtExpression_mean": 5.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 2.93650793650794
+      }, 
+      "CACNA2D2": {
+        "QtExpression_mean": 1.8, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 1.65483870967742
+      }, 
+      "CACNA2D3": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.189189189189189
+      }, 
+      "CACNA2D4": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.1
+      }, 
+      "CACNB1": {
+        "QtExpression_mean": 2.5, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          1, 
+          0, 
+          0
+        ], 
+        "specificityScore": 2.1031746031746
+      }, 
+      "CACNB2": {
+        "QtExpression_mean": 2.6, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 1.95
+      }, 
+      "CACNB3": {
+        "QtExpression_mean": 5.4, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 2.33513513513514
+      }, 
+      "CACNB4": {
+        "QtExpression_mean": 2.6, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 2.4741935483871
+      }, 
+      "CACNG1": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.194594594594595
+      }, 
+      "CACNG2": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "CACNG3": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "CACNG4": {
+        "QtExpression_mean": 7.4, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 6.6952380952381
+      }, 
+      "CACNG5": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "CACNG6": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "CACNG7": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "CACNG8": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0984126984126984
+      }, 
+      "CALHM1": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "CALHM2": {
+        "QtExpression_mean": 9.7, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 5.16290322580645
+      }, 
+      "CALHM3": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "CATSPER1": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "CATSPER2": {
+        "QtExpression_mean": 2.6, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 2.31891891891892
+      }, 
+      "CATSPER3": {
+        "QtExpression_mean": 0.5, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.486486486486487
+      }, 
+      "CATSPER4": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "CATSPERB": {
+        "QtExpression_mean": 1.3, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 1.3
+      }, 
+      "CATSPERD": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "CATSPERG": {
+        "QtExpression_mean": 0.5, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.486486486486487
+      }, 
+      "CFTR": {
+        "QtExpression_mean": 0.5, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.420634920634921
+      }, 
+      "CHRFAM7A": {
+        "QtExpression_mean": 0.4, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.389189189189189
+      }, 
+      "CHRNA1": {
+        "QtExpression_mean": 0.6, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.583783783783784
+      }, 
+      "CHRNA10": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.194594594594595
+      }, 
+      "CHRNA2": {
+        "QtExpression_mean": 2.1, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 2.04324324324324
+      }, 
+      "CHRNA3": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0968253968253968
+      }, 
+      "CHRNA4": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "CHRNA5": {
+        "QtExpression_mean": 1.8, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 1.74285714285714
+      }, 
+      "CHRNA6": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.2
+      }, 
+      "CHRNA7": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          0, 
+          1, 
+          2, 
+          0
+        ], 
+        "specificityScore": 0.0968253968253968
+      }, 
+      "CHRNA9": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "CHRNB1": {
+        "QtExpression_mean": 8.6, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          1, 
+          0, 
+          0
+        ], 
+        "specificityScore": 3.95873015873016
+      }, 
+      "CHRNB2": {
+        "QtExpression_mean": 0.6, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.583783783783784
+      }, 
+      "CHRNB3": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "CHRNB4": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "CHRND": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "CHRNE": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.194594594594595
+      }, 
+      "CHRNG": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "CLCA1": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0904761904761905
+      }, 
+      "CLCA2": {
+        "QtExpression_mean": 5.9, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          1, 
+          1, 
+          0
+        ], 
+        "specificityScore": 5.43174603174603
+      }, 
+      "CLCA4": {
+        "QtExpression_mean": 2.7, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          2, 
+          0
+        ], 
+        "specificityScore": 2.35714285714286
+      }, 
+      "CLCN1": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0972972972972973
+      }, 
+      "CLCN2": {
+        "QtExpression_mean": 1.4, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 1.15555555555556
+      }, 
+      "CLCN3": {
+        "QtExpression_mean": 39.3, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          1, 
+          1, 
+          0
+        ], 
+        "specificityScore": 16.2190476190476
+      }, 
+      "CLCN4": {
+        "QtExpression_mean": 1.4, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 1.26666666666667
+      }, 
+      "CLCN5": {
+        "QtExpression_mean": 1.7, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 1.45714285714286
+      }, 
+      "CLCN6": {
+        "QtExpression_mean": 7.4, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          0, 
+          1, 
+          0, 
+          2
+        ], 
+        "specificityScore": 3.75873015873016
+      }, 
+      "CLCN7": {
+        "QtExpression_mean": 10.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          1, 
+          1, 
+          0
+        ], 
+        "specificityScore": 4.44444444444444
+      }, 
+      "CLCNKA": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.19047619047619
+      }, 
+      "CLCNKB": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.19047619047619
+      }, 
+      "CLIC1": {
+        "QtExpression_mean": 40.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 17.7777777777778
+      }, 
+      "CLIC2": {
+        "QtExpression_mean": 19.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 9.3984126984127
+      }, 
+      "CLIC3": {
+        "QtExpression_mean": 2.4, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          1, 
+          0, 
+          0
+        ], 
+        "specificityScore": 2.0952380952381
+      }, 
+      "CLIC4": {
+        "QtExpression_mean": 74.5, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 30.7460317460317
+      }, 
+      "CLIC5": {
+        "QtExpression_mean": 2.4, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 1.42702702702703
+      }, 
+      "CLIC6": {
+        "QtExpression_mean": 13.9, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          0, 
+          1, 
+          0
+        ], 
+        "specificityScore": 11.031746031746
+      }, 
+      "CNGA1": {
+        "QtExpression_mean": 2.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 1.66486486486487
+      }, 
+      "CNGA2": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "CNGA3": {
+        "QtExpression_mean": 0.3, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.3
+      }, 
+      "CNGA4": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0945945945945946
+      }, 
+      "CNGB1": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.1
+      }, 
+      "CNGB3": {
+        "QtExpression_mean": 0.4, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.4
+      }, 
+      "GABRA1": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "GABRA2": {
+        "QtExpression_mean": 1.1, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.981081081081081
+      }, 
+      "GABRA3": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "GABRA4": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "GABRA5": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "GABRA6": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "GABRB1": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          0, 
+          3, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "GABRB2": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.193650793650794
+      }, 
+      "GABRB3": {
+        "QtExpression_mean": 1.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.94054054054054
+      }, 
+      "GABRD": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "GABRE": {
+        "QtExpression_mean": 1.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 1.15714285714286
+      }, 
+      "GABRG1": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "GABRG2": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "GABRG3": {
+        "QtExpression_mean": 0.5, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.484126984126984
+      }, 
+      "GABRP": {
+        "QtExpression_mean": 186.6, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          0, 
+          2, 
+          1, 
+          0
+        ], 
+        "specificityScore": 91.8190476190476
+      }, 
+      "GABRQ": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "GABRR1": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "GABRR2": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "GPR89B": {
+        "QtExpression_mean": 10.5, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 2.27027027027027
+      }, 
+      "GRIA1": {
+        "QtExpression_mean": 0.5, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.484126984126984
+      }, 
+      "GRIA2": {
+        "QtExpression_mean": 1.4, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 1.24444444444444
+      }, 
+      "GRIA3": {
+        "QtExpression_mean": 1.8, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 1.68571428571429
+      }, 
+      "GRIA4": {
+        "QtExpression_mean": 3.9, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 3.68918918918919
+      }, 
+      "GRID1": {
+        "QtExpression_mean": 0.3, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.291891891891892
+      }, 
+      "GRID2": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "GRIK1": {
+        "QtExpression_mean": 2.7, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          2, 
+          0
+        ], 
+        "specificityScore": 2.61428571428571
+      }, 
+      "GRIK2": {
+        "QtExpression_mean": 0.4, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          2, 
+          0
+        ], 
+        "specificityScore": 0.387301587301587
+      }, 
+      "GRIK3": {
+        "QtExpression_mean": 3.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 2.91891891891892
+      }, 
+      "GRIK4": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.194594594594595
+      }, 
+      "GRIK5": {
+        "QtExpression_mean": 0.6, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.47027027027027
+      }, 
+      "GRIN1": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          0, 
+          1, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "GRIN2A": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.196825396825397
+      }, 
+      "GRIN2B": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "GRIN2C": {
+        "QtExpression_mean": 0.3, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.275675675675676
+      }, 
+      "GRIN2D": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "GRIN3A": {
+        "QtExpression_mean": 0.3, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.291891891891892
+      }, 
+      "GRIN3B": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "HCN1": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0984126984126984
+      }, 
+      "HCN2": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "HCN3": {
+        "QtExpression_mean": 0.5, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          0, 
+          1, 
+          0
+        ], 
+        "specificityScore": 0.5
+      }, 
+      "HCN4": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "HTR1A": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          1, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "HTR2A": {
+        "QtExpression_mean": 0.6, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.59047619047619
+      }, 
+      "HTR3A": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "HTR3B": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          1, 
+          1, 
+          0
+        ], 
+        "specificityScore": 0.2
+      }, 
+      "HTR3C": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "HTR3D": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "HVCN1": {
+        "QtExpression_mean": 4.6, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 2.62857142857143
+      }, 
+      "KCNA1": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.196428571428571
+      }, 
+      "KCNA10": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "KCNA2": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.196825396825397
+      }, 
+      "KCNA3": {
+        "QtExpression_mean": 1.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.904761904761905
+      }, 
+      "KCNA4": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "KCNA5": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.193650793650794
+      }, 
+      "KCNA6": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          0, 
+          0, 
+          3, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "KCNA7": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.194594594594595
+      }, 
+      "KCNAB1": {
+        "QtExpression_mean": 3.7, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 2.93650793650794
+      }, 
+      "KCNAB2": {
+        "QtExpression_mean": 4.3, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 2.32063492063492
+      }, 
+      "KCNAB3": {
+        "QtExpression_mean": 0.5, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.472972972972973
+      }, 
+      "KCNB1": {
+        "QtExpression_mean": 1.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.920634920634921
+      }, 
+      "KCNB2": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.1
+      }, 
+      "KCNC1": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "KCNC2": {
+        "QtExpression_mean": 2.3, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 2.25892857142857
+      }, 
+      "KCNC3": {
+        "QtExpression_mean": 1.9, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 1.5984126984127
+      }, 
+      "KCNC4": {
+        "QtExpression_mean": 2.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          1, 
+          1, 
+          0
+        ], 
+        "specificityScore": 2.12786885245902
+      }, 
+      "KCND1": {
+        "QtExpression_mean": 0.4, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.4
+      }, 
+      "KCND2": {
+        "QtExpression_mean": 1.3, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 1.23809523809524
+      }, 
+      "KCND3": {
+        "QtExpression_mean": 4.3, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          0, 
+          1, 
+          0
+        ], 
+        "specificityScore": 3.13968253968254
+      }, 
+      "KCNE1": {
+        "QtExpression_mean": 1.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 1.16756756756757
+      }, 
+      "KCNE2": {
+        "QtExpression_mean": 0.9, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.857142857142857
+      }, 
+      "KCNE3": {
+        "QtExpression_mean": 2.9, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          2, 
+          0
+        ], 
+        "specificityScore": 1.75901639344262
+      }, 
+      "KCNE4": {
+        "QtExpression_mean": 6.9, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          2, 
+          0
+        ], 
+        "specificityScore": 5.14761904761905
+      }, 
+      "KCNE5": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.2
+      }, 
+      "KCNF1": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          0, 
+          2, 
+          1, 
+          0
+        ], 
+        "specificityScore": 0.196825396825397
+      }, 
+      "KCNG1": {
+        "QtExpression_mean": 0.4, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          0, 
+          2, 
+          1, 
+          0
+        ], 
+        "specificityScore": 0.349206349206349
+      }, 
+      "KCNG2": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "KCNG3": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "KCNG4": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.1
+      }, 
+      "KCNH1": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "KCNH2": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.072972972972973
+      }, 
+      "KCNH3": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.192857142857143
+      }, 
+      "KCNH4": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "KCNH5": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "KCNH6": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "KCNH7": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "KCNH8": {
+        "QtExpression_mean": 0.6, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.6
+      }, 
+      "KCNIP1": {
+        "QtExpression_mean": 1.3, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          2, 
+          0
+        ], 
+        "specificityScore": 1.17619047619048
+      }, 
+      "KCNIP2": {
+        "QtExpression_mean": 16.7, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 9.92972972972973
+      }, 
+      "KCNIP3": {
+        "QtExpression_mean": 2.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          1, 
+          0, 
+          0
+        ], 
+        "specificityScore": 1.78095238095238
+      }, 
+      "KCNIP4": {
+        "QtExpression_mean": 2.1, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 1.7027027027027
+      }, 
+      "KCNJ1": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0984126984126984
+      }, 
+      "KCNJ10": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0891891891891892
+      }, 
+      "KCNJ11": {
+        "QtExpression_mean": 3.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 2.9968253968254
+      }, 
+      "KCNJ12": {
+        "QtExpression_mean": 0.5, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.484126984126984
+      }, 
+      "KCNJ13": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0891891891891892
+      }, 
+      "KCNJ14": {
+        "QtExpression_mean": 1.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 1.0
+      }, 
+      "KCNJ15": {
+        "QtExpression_mean": 1.9, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          1, 
+          1
+        ], 
+        "specificityScore": 1.38730158730159
+      }, 
+      "KCNJ16": {
+        "QtExpression_mean": 6.3, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 5.1
+      }, 
+      "KCNJ2": {
+        "QtExpression_mean": 6.3, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          0, 
+          1, 
+          0, 
+          2
+        ], 
+        "specificityScore": 5.4
+      }, 
+      "KCNJ3": {
+        "QtExpression_mean": 0.5, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.436507936507937
+      }, 
+      "KCNJ4": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "KCNJ5": {
+        "QtExpression_mean": 1.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          2, 
+          0
+        ], 
+        "specificityScore": 1.08571428571429
+      }, 
+      "KCNJ6": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "KCNJ8": {
+        "QtExpression_mean": 8.6, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 5.32380952380952
+      }, 
+      "KCNJ9": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "KCNK1": {
+        "QtExpression_mean": 6.7, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          0, 
+          2, 
+          1, 
+          0
+        ], 
+        "specificityScore": 3.93492063492064
+      }, 
+      "KCNK10": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0968253968253968
+      }, 
+      "KCNK12": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "KCNK13": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.193650793650794
+      }, 
+      "KCNK16": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "KCNK17": {
+        "QtExpression_mean": 0.9, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.867857142857143
+      }, 
+      "KCNK18": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "KCNK2": {
+        "QtExpression_mean": 8.7, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 7.92321428571428
+      }, 
+      "KCNK3": {
+        "QtExpression_mean": 0.6, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.486486486486486
+      }, 
+      "KCNK4": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "KCNK5": {
+        "QtExpression_mean": 4.7, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 3.65555555555556
+      }, 
+      "KCNK6": {
+        "QtExpression_mean": 7.5, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          0, 
+          2, 
+          1, 
+          0
+        ], 
+        "specificityScore": 4.88095238095238
+      }, 
+      "KCNK7": {
+        "QtExpression_mean": 3.9, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 3.68918918918919
+      }, 
+      "KCNK9": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "KCNMA1": {
+        "QtExpression_mean": 14.3, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 7.71746031746032
+      }, 
+      "KCNMB1": {
+        "QtExpression_mean": 7.7, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 4.37027027027027
+      }, 
+      "KCNMB2": {
+        "QtExpression_mean": 1.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          2, 
+          0
+        ], 
+        "specificityScore": 1.01269841269841
+      }, 
+      "KCNMB3": {
+        "QtExpression_mean": 2.4, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          1, 
+          0, 
+          0
+        ], 
+        "specificityScore": 2.32380952380952
+      }, 
+      "KCNMB4": {
+        "QtExpression_mean": 1.3, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 1.22972972972973
+      }, 
+      "KCNN1": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0972972972972973
+      }, 
+      "KCNN2": {
+        "QtExpression_mean": 0.6, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.535714285714286
+      }, 
+      "KCNN3": {
+        "QtExpression_mean": 0.9, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          0, 
+          0, 
+          1
+        ], 
+        "specificityScore": 0.8
+      }, 
+      "KCNN4": {
+        "QtExpression_mean": 19.5, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 13.9285714285714
+      }, 
+      "KCNQ1": {
+        "QtExpression_mean": 3.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          1, 
+          0
+        ], 
+        "specificityScore": 1.86984126984127
+      }, 
+      "KCNQ2": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "KCNQ3": {
+        "QtExpression_mean": 0.5, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.486486486486487
+      }, 
+      "KCNQ4": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.2
+      }, 
+      "KCNQ5": {
+        "QtExpression_mean": 0.5, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          1, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.476190476190476
+      }, 
+      "KCNS1": {
+        "QtExpression_mean": 0.3, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.291891891891892
+      }, 
+      "KCNS2": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "KCNS3": {
+        "QtExpression_mean": 7.9, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          2, 
+          0
+        ], 
+        "specificityScore": 5.98870967741936
+      }, 
+      "KCNT1": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "KCNT2": {
+        "QtExpression_mean": 0.4, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.392857142857143
+      }, 
+      "KCNU1": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "KCNV1": {
+        "QtExpression_mean": 0.4, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.389189189189189
+      }, 
+      "KCNV2": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "LRRC8A": {
+        "QtExpression_mean": 12.6, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.681081081081081
+      }, 
+      "LRRC8B": {
+        "QtExpression_mean": 6.6, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          1, 
+          1, 
+          0
+        ], 
+        "specificityScore": 4.60952380952381
+      }, 
+      "LRRC8C": {
+        "QtExpression_mean": 5.3, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          0, 
+          0, 
+          2, 
+          1
+        ], 
+        "specificityScore": 3.7015873015873
+      }, 
+      "LRRC8D": {
+        "QtExpression_mean": 15.7, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.848648648648649
+      }, 
+      "LRRC8E": {
+        "QtExpression_mean": 6.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 5.53571428571429
+      }, 
+      "MCOLN1": {
+        "QtExpression_mean": 5.8, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          2, 
+          0
+        ], 
+        "specificityScore": 2.85396825396825
+      }, 
+      "MCOLN2": {
+        "QtExpression_mean": 1.5, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 1.30952380952381
+      }, 
+      "MCOLN3": {
+        "QtExpression_mean": 2.6, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 2.22857142857143
+      }, 
+      "NALCN": {
+        "QtExpression_mean": 3.7, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 3.58253968253968
+      }, 
+      "ORAI1": {
+        "QtExpression_mean": 8.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          1, 
+          0, 
+          0
+        ], 
+        "specificityScore": 4.03492063492063
+      }, 
+      "ORAI2": {
+        "QtExpression_mean": 4.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 2.4
+      }, 
+      "ORAI3": {
+        "QtExpression_mean": 10.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          0, 
+          1, 
+          2, 
+          0
+        ], 
+        "specificityScore": 4.53333333333333
+      }, 
+      "P2RX1": {
+        "QtExpression_mean": 1.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.648648648648649
+      }, 
+      "P2RX2": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "P2RX3": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "P2RX4": {
+        "QtExpression_mean": 9.8, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 5.28888888888889
+      }, 
+      "P2RX5": {
+        "QtExpression_mean": 0.7, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.644444444444444
+      }, 
+      "P2RX6": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.1
+      }, 
+      "P2RX7": {
+        "QtExpression_mean": 2.6, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          2, 
+          0
+        ], 
+        "specificityScore": 2.14603174603175
+      }, 
+      "PIEZO1": {
+        "QtExpression_mean": 6.6, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 3.45714285714286
+      }, 
+      "PIEZO2": {
+        "QtExpression_mean": 4.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          1, 
+          1
+        ], 
+        "specificityScore": 3.64444444444444
+      }, 
+      "PKD1L1": {
+        "QtExpression_mean": 0.4, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.4
+      }, 
+      "PKD1L3": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "PKD2": {
+        "QtExpression_mean": 19.9, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          1, 
+          1, 
+          0
+        ], 
+        "specificityScore": 9.16031746031746
+      }, 
+      "PKD2L1": {
+        "QtExpression_mean": 1.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.982142857142857
+      }, 
+      "PKD2L2": {
+        "QtExpression_mean": 0.7, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          1, 
+          1, 
+          0
+        ], 
+        "specificityScore": 0.688888888888889
+      }, 
+      "PKDREJ": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0984126984126984
+      }, 
+      "RYR1": {
+        "QtExpression_mean": 1.9, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 1.74920634920635
+      }, 
+      "RYR2": {
+        "QtExpression_mean": 0.6, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.571428571428571
+      }, 
+      "RYR3": {
+        "QtExpression_mean": 3.4, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 2.94054054054054
+      }, 
+      "SCN10A": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "SCN11A": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.196428571428571
+      }, 
+      "SCN1A": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "SCN1B": {
+        "QtExpression_mean": 4.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 2.59459459459459
+      }, 
+      "SCN2A": {
+        "QtExpression_mean": 1.6, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 1.5741935483871
+      }, 
+      "SCN2B": {
+        "QtExpression_mean": 0.8, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.756756756756757
+      }, 
+      "SCN3A": {
+        "QtExpression_mean": 1.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 1.18095238095238
+      }, 
+      "SCN3B": {
+        "QtExpression_mean": 1.6, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 1.42702702702703
+      }, 
+      "SCN4A": {
+        "QtExpression_mean": 1.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.945945945945946
+      }, 
+      "SCN4B": {
+        "QtExpression_mean": 2.7, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          1, 
+          1, 
+          0
+        ], 
+        "specificityScore": 2.14285714285714
+      }, 
+      "SCN5A": {
+        "QtExpression_mean": 0.3, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.291891891891892
+      }, 
+      "SCN7A": {
+        "QtExpression_mean": 4.7, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 3.35714285714286
+      }, 
+      "SCN8A": {
+        "QtExpression_mean": 0.8, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.778378378378378
+      }, 
+      "SCN9A": {
+        "QtExpression_mean": 0.9, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          1, 
+          1, 
+          0
+        ], 
+        "specificityScore": 0.871428571428571
+      }, 
+      "SCNN1A": {
+        "QtExpression_mean": 25.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          1, 
+          0, 
+          0
+        ], 
+        "specificityScore": 15.1396825396825
+      }, 
+      "SCNN1B": {
+        "QtExpression_mean": 7.5, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 5.71428571428571
+      }, 
+      "SCNN1D": {
+        "QtExpression_mean": 1.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.952380952380952
+      }, 
+      "SCNN1G": {
+        "QtExpression_mean": 2.8, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 2.27027027027027
+      }, 
+      "TMC1": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.2
+      }, 
+      "TMC2": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.2
+      }, 
+      "TMCO1": {
+        "QtExpression_mean": 104.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "TMEM175": {
+        "QtExpression_mean": 6.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          2, 
+          0
+        ], 
+        "specificityScore": 2.80793650793651
+      }, 
+      "TMEM37": {
+        "QtExpression_mean": 16.5, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 9.16666666666667
+      }, 
+      "TMEM38A": {
+        "QtExpression_mean": 2.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 1.68253968253968
+      }, 
+      "TMEM38B": {
+        "QtExpression_mean": 6.3, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          0, 
+          1, 
+          2, 
+          0
+        ], 
+        "specificityScore": 2.8
+      }, 
+      "TMEM63C": {
+        "QtExpression_mean": 4.3, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 3.99285714285714
+      }, 
+      "TPCN1": {
+        "QtExpression_mean": 24.3, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          1, 
+          0, 
+          0
+        ], 
+        "specificityScore": 9.79838709677419
+      }, 
+      "TPCN2": {
+        "QtExpression_mean": 3.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          2, 
+          0
+        ], 
+        "specificityScore": 2.13333333333333
+      }, 
+      "TRPA1": {
+        "QtExpression_mean": 0.4, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.349206349206349
+      }, 
+      "TRPC1": {
+        "QtExpression_mean": 4.9, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          0, 
+          1, 
+          1, 
+          1
+        ], 
+        "specificityScore": 3.65555555555556
+      }, 
+      "TRPC3": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "TRPC4": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0891891891891892
+      }, 
+      "TRPC4AP": {
+        "QtExpression_mean": 37.1, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 15.3111111111111
+      }, 
+      "TRPC5": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "TRPC6": {
+        "QtExpression_mean": 2.4, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          2, 
+          0
+        ], 
+        "specificityScore": 2.05714285714286
+      }, 
+      "TRPC7": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }, 
+      "TRPM1": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "TRPM2": {
+        "QtExpression_mean": 4.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          1, 
+          0, 
+          0
+        ], 
+        "specificityScore": 3.57936507936508
+      }, 
+      "TRPM3": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.189189189189189
+      }, 
+      "TRPM4": {
+        "QtExpression_mean": 6.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          1, 
+          1, 
+          0
+        ], 
+        "specificityScore": 3.96984126984127
+      }, 
+      "TRPM5": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          2, 
+          0
+        ], 
+        "specificityScore": 0.0
+      }, 
+      "TRPM6": {
+        "QtExpression_mean": 0.5, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.432432432432432
+      }, 
+      "TRPM7": {
+        "QtExpression_mean": 17.4, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          0, 
+          2
+        ], 
+        "specificityScore": 8.00952380952381
+      }, 
+      "TRPM8": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0945945945945946
+      }, 
+      "TRPV1": {
+        "QtExpression_mean": 3.3, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 2.76486486486486
+      }, 
+      "TRPV2": {
+        "QtExpression_mean": 3.4, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          2, 
+          0
+        ], 
+        "specificityScore": 1.9968253968254
+      }, 
+      "TRPV3": {
+        "QtExpression_mean": 0.3, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.291891891891892
+      }, 
+      "TRPV4": {
+        "QtExpression_mean": 2.4, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          2, 
+          0, 
+          1, 
+          0
+        ], 
+        "specificityScore": 2.17142857142857
+      }, 
+      "TRPV5": {
+        "QtExpression_mean": 0.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.1
+      }, 
+      "TRPV6": {
+        "QtExpression_mean": 5.5, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          2, 
+          0, 
+          0
+        ], 
+        "specificityScore": 4.79032258064516
+      }, 
+      "TTYH1": {
+        "QtExpression_mean": 0.2, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 0.196825396825397
+      }, 
+      "TTYH2": {
+        "QtExpression_mean": 3.5, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 1.41891891891892
+      }, 
+      "TTYH3": {
+        "QtExpression_mean": 4.9, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 2.56666666666667
+      }, 
+      "VDAC1": {
+        "QtExpression_mean": 132.1, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          0, 
+          1, 
+          2, 
+          0
+        ], 
+        "specificityScore": 54.5174603174603
+      }, 
+      "VDAC2": {
+        "QtExpression_mean": 136.0, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          1, 
+          0, 
+          2, 
+          0
+        ], 
+        "specificityScore": 56.1269841269841
+      }, 
+      "VDAC3": {
+        "QtExpression_mean": 90.8, 
+        "QtExpression_std": 0, 
+        "catExpression": [
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "specificityScore": 37.4730158730159
+      }, 
+      "ZACN": {
+        "QtExpression_mean": 0.0, 
+        "QtExpression_std": 0, 
+        "catExpression": null, 
+        "specificityScore": 0.0
+      }
+    }, 
+    "tissueB": {
+      "ABCC9": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "ANO1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "ANO10": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "ANO2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "ANO3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "ANO4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "ANO5": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "ANO6": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "ANO7": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "ANO8": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "ASIC1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "ASIC2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "ASIC3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "ASIC4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "ASIC5": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "BEST1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "BEST2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "BEST3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "BEST4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "BSND": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNA1A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNA1B": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNA1C": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNA1D": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNA1E": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNA1F": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNA1G": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNA1H": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNA1I": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNA1S": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNA2D1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNA2D2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNA2D3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNA2D4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNB1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNB2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNB3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNB4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNG1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNG2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNG3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNG4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNG5": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNG6": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNG7": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CACNG8": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CALHM1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CALHM2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CALHM3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CATSPER1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CATSPER2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CATSPER3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CATSPER4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CATSPERB": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CATSPERD": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CATSPERG": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CFTR": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CHRFAM7A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CHRNA1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CHRNA10": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CHRNA2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CHRNA3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CHRNA4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CHRNA5": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CHRNA6": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CHRNA7": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CHRNA9": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CHRNB1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CHRNB2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CHRNB3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CHRNB4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CHRND": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CHRNE": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CHRNG": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CLCA1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CLCA2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CLCA4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CLCN1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CLCN2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CLCN3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CLCN4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CLCN5": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CLCN6": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CLCN7": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CLCNKA": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CLCNKB": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CLIC1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CLIC2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CLIC3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CLIC4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CLIC5": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CLIC6": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CNGA1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CNGA2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CNGA3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CNGA4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CNGB1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "CNGB3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GABRA1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GABRA2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GABRA3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GABRA4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GABRA5": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GABRA6": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GABRB1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GABRB2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GABRB3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GABRD": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GABRE": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GABRG1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GABRG2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GABRG3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GABRP": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GABRQ": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GABRR1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GABRR2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GPR89B": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GRIA1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GRIA2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GRIA3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GRIA4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GRID1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GRID2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GRIK1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GRIK2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GRIK3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GRIK4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GRIK5": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GRIN1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GRIN2A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GRIN2B": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GRIN2C": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GRIN2D": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GRIN3A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "GRIN3B": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "HCN1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "HCN2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "HCN3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "HCN4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "HTR1A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "HTR2A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "HTR3A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "HTR3B": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "HTR3C": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "HTR3D": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "HVCN1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNA1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNA10": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNA2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNA3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNA4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNA5": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNA6": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNA7": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNAB1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNAB2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNAB3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNB1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNB2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNC1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNC2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNC3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNC4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCND1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCND2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCND3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNE1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNE2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNE3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNE4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNE5": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNF1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNG1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNG2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNG3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNG4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNH1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNH2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNH3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNH4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNH5": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNH6": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNH7": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNH8": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNIP1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNIP2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNIP3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNIP4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNJ1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNJ10": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNJ11": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNJ12": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNJ13": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNJ14": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNJ15": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNJ16": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNJ2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNJ3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNJ4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNJ5": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNJ6": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNJ8": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNJ9": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNK1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNK10": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNK12": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNK13": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNK16": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNK17": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNK18": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNK2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNK3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNK4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNK5": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNK6": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNK7": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNK9": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNMA1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNMB1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNMB2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNMB3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNMB4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNN1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNN2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNN3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNN4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNQ1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNQ2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNQ3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNQ4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNQ5": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNS1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNS2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNS3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNT1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNT2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNU1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNV1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "KCNV2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "LRRC8A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "LRRC8B": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "LRRC8C": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "LRRC8D": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "LRRC8E": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "MCOLN1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "MCOLN2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "MCOLN3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "NALCN": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "ORAI1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "ORAI2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "ORAI3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "P2RX1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "P2RX2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "P2RX3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "P2RX4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "P2RX5": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "P2RX6": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "P2RX7": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "PIEZO1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "PIEZO2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "PKD1L1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "PKD1L3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "PKD2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "PKD2L1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "PKD2L2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "PKDREJ": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "RYR1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "RYR2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "RYR3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "SCN10A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "SCN11A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "SCN1A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "SCN1B": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "SCN2A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "SCN2B": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "SCN3A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "SCN3B": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "SCN4A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "SCN4B": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "SCN5A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "SCN7A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "SCN8A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "SCN9A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "SCNN1A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "SCNN1B": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "SCNN1D": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "SCNN1G": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TMC1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TMC2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TMCO1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TMEM175": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TMEM37": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TMEM38A": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TMEM38B": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TMEM63C": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TPCN1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TPCN2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPA1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPC1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPC3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPC4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPC4AP": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPC5": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPC6": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPC7": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPM1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPM2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPM3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPM4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPM5": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPM6": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPM7": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPM8": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPV1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPV2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPV3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPV4": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPV5": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TRPV6": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TTYH1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TTYH2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "TTYH3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "VDAC1": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "VDAC2": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "VDAC3": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }, 
+      "ZACN": {
+        "QtExpression_mean": null, 
+        "QtExpression_std": null, 
+        "catExpression": null, 
+        "specificityScore": null
+      }
+    }
+  }

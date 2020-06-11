@@ -7,6 +7,7 @@ CORS(app)
 
 
 import pandas as pd
+import numpy as np
 '''
 import pymysql
 from DBUtils.PooledDB import PooledDB
@@ -132,10 +133,15 @@ def _comprehensiveQuery(params):
     """
     return _execute(query, params).fetchall()
 
-@app.route('/api/tissues/expressions', methods=["POST"])
+#@app.route('/api/tissues/expressions', methods=["POST"])
+@app.route('/api/tissues/expressions', methods=["GET"])
 def get_ion_channel_expression_data():
-    content = request.json
-
+    #content = request.json
+    content={
+        'tissueA':'breast',
+        'tissueB':'--',
+        'type': 'comprehensive'
+    }
     params=(content['tissueA'], content['tissueB'])
 
     if (content['type']=="comprehensive"):
@@ -143,7 +149,80 @@ def get_ion_channel_expression_data():
     else:
         expressions=_uniqueQuery(params)
 
-    return jsonify(expressions)
+    #Get unique genes from results
+    data=pd.DataFrame(expressions)
+    genes=list(data['geneSymbol'].unique())
+
+    #Build genes info
+    genesInfo={}
+    for geneSymbol in genes:
+        records=data[(data['geneSymbol']==geneSymbol)]
+        genesInfo[geneSymbol]={
+            "inBETSE": False if records.iloc[0]['inBETSE']=='N' else True,
+            "geneName": records.iloc[0]['geneName']
+        }
+
+    #build TissuesInfo
+    tissueData={
+        content['tissueA']:{},
+        content['tissueB']:{}
+    }
+    for geneSymbol in genes:
+        geneRecords=data[(data['geneSymbol']==geneSymbol)]
+        for tissueName in [content['tissueA'], content['tissueB']]:
+            tissueRecords=geneRecords[geneRecords['tissue']==tissueName]
+
+            if (tissueName=="--"):
+                tissueData[tissueName][geneSymbol]={
+                    'specificityScore': None,
+                    'QtExpression_mean': None, 
+                    'QtExpression_std': None, 
+                    'catExpression': None}
+                continue
+            else:
+                specificityScore=tissueRecords['specificityScore'].astype(float).mean()
+                #Get quantitative expressions
+                quantitativeExpressions=tissueRecords[tissueRecords['exprType']=='quantitative']
+                if (len(quantitativeExpressions)==0):
+                    QtExpression_mean=None
+                    QtExpression_std=None
+                else:
+                    QtExpression_mean=quantitativeExpressions['exprLevel'].astype(float).mean()
+                    QtExpression_std=quantitativeExpressions['exprLevel'].astype(float).std()
+                    QtExpression_std=None if np.isnan(QtExpression_std) else QtExpression_std
+
+                #Get qualitative expressions
+                qualitativeExpressions=tissueRecords[tissueRecords['exprType']=='qualitative']
+                if (len(qualitativeExpressions) > 0):
+                    grouped=qualitativeExpressions.groupby('exprLevel').count().reset_index()
+
+                    catExpression=[0, 0, 0, 0]
+                    for _, row in grouped.iterrows():
+                        exprLevel=row['exprLevel']
+                        qt=row['tissue']
+                        if (exprLevel=='Not detected'):
+                            catExpression[0]=qt
+                        elif (exprLevel=='Low'):
+                            catExpression[1]=qt
+                        elif (exprLevel=='Medium'):
+                            catExpression[2]=qt
+                        else:
+                            catExpression[3]=qt
+                else:
+                    catExpression=None
+
+                tissueData[tissueName][geneSymbol]={
+                    'specificityScore': specificityScore,
+                    'QtExpression_mean': QtExpression_mean, 
+                    'QtExpression_std': QtExpression_std, 
+                    'catExpression': catExpression}
+
+    return jsonify({
+        "genes": genes,
+        "genesInfo": genesInfo,
+        "tissueA": tissueData[content['tissueA']],
+        "tissueB": tissueData[content['tissueB']]
+    })
 
 @app.route('/api/interactions', methods=["POST"])
 def get_protein_compound_interactions():
@@ -226,5 +305,5 @@ def get_protein_compound_interactions():
     })
 
 if __name__ == '__main__':
-    app.run(debug=False, port=int(os.environ.get('PORT', 5000)))
+    app.run(debug=True, port=int(os.environ.get('PORT', 5000)))
     #get_ion_channel_expression_data()
