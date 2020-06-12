@@ -306,12 +306,14 @@ def get_protein_compound_interactions():
             }
     
     #Sort by IC values
+    print(resp[resp['assayType']=="IC50"])
     filtered_ic50=resp[resp['assayType']=="IC50"]
-    grouped=filtered_ic50.groupby('chemblID').median().reset_index()
-    IDs=np.asarray(grouped['chemblID'])
-    values=list(grouped['assayValue'])
-    sorted_idxs=np.argsort(values)[::-1]
-    compoundIDs=list(IDs[sorted_idxs])
+    if (len(filtered_ic50) > 0):
+        grouped=filtered_ic50.groupby('chemblID').median().reset_index()
+        IDs=np.asarray(grouped['chemblID'])
+        values=list(grouped['assayValue'])
+        sorted_idxs=np.argsort(values)[::-1]
+        compoundIDs=list(IDs[sorted_idxs])
     
     return jsonify({
         "success": True,
