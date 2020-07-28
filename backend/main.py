@@ -246,7 +246,7 @@ def get_protein_compound_interactions():
     ON (i.TargetUniProtAccNum=p.UniProtAccNum)
     LEFT JOIN `Compound` c
     ON (c.id=i.compoundID)
-    WHERE p.GeneSymbol=?
+    WHERE p.GeneSymbol=? AND i.zscore <= 3
     """
     params=(geneSymbol, )
 
