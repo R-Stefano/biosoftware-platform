@@ -143,7 +143,7 @@ def get_ion_channel_expression_data():
         expressions=_comprehensiveQuery(params)
     else:
         expressions=_uniqueQuery(params)
-
+    
     if (len(expressions)==0):
         return jsonify({
             "genes": [],
@@ -254,6 +254,14 @@ def get_protein_compound_interactions():
 
     resp=pd.DataFrame(resp)
 
+    if (len(resp) == 0):
+        return jsonify({
+            "success": True,
+            "data": {
+                "compoundIDs": [],
+                "compoundData": {}
+            }
+        })
     #prepare data
     resp['assayValue_max']=resp['assayValue'] #create new columns to simplify group min and max
     resp.loc[resp['actionType']=="", 'actionType']="UNKNOWN" #set not available action type as unknown
@@ -306,7 +314,6 @@ def get_protein_compound_interactions():
             }
     
     #Sort by IC values
-    print(resp[resp['assayType']=="IC50"])
     filtered_ic50=resp[resp['assayType']=="IC50"]
     if (len(filtered_ic50) > 0):
         grouped=filtered_ic50.groupby('chemblID').median().reset_index()
